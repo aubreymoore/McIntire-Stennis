@@ -1,0 +1,1089 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass scrartcl
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref true
+\pdf_bookmarks true
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks true
+\pdf_pdfborder true
+\pdf_colorlinks true
+\pdf_backref false
+\pdf_pdfusetitle true
+\pdf_quoted_options "allcolors=blue"
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Titlehead
+McIntire-Stennis Proposal
+\end_layout
+
+\begin_layout Title
+Guam Forest Biodiversity Inventory
+\end_layout
+
+\begin_layout Author
+Aubrey Moore
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename diag1.pdf
+	lyxscale 20
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Justification
+\end_layout
+
+\begin_layout Standard
+Funding is requested to support building and maintenance of a Guam Forest
+ Biodiversity Inventory.
+ In its simplest form, a biodiversity inventory is simple a checklist of
+ taxa inhabiting a geographic area or habitat of interest.
+ In this case the habitat of interest is Guam's forests.
+ 
+\end_layout
+
+\begin_layout Standard
+Guam's forest ecosystems are rapidly being degraded by invasive insect species
+ and habitat destruction.
+ Impacts of bird extinctions caused by brown treesnake predation on Guam's
+ forests are well known.
+ But these impacts are rivaled by contemporary ecological disasters.
+ Just a couple of examples:
+\end_layout
+
+\begin_layout Enumerate
+In 2002, a USDA Forest Service survey 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "j.a.donnegonguamsforest"
+
+\end_inset
+
+ reported that Guam's endemic cycad, 
+\emph on
+Cycas micronesica
+\emph default
+, was the most abundant tree in Guam's forests.
+ In 2003 the Asian cycad scale, 
+\emph on
+Aulacaspis yasumatsui
+\emph default
+, was detected on Guam infesting ornamental cycads.
+ The scale quickly spread to wild cycads and started killing them.
+ Within only 3 years, 
+\emph on
+Cycas micronesica
+\emph default
+ was placed on the IUCN Red List of Threatened Species and in 2016, this
+ plant was placed on the US national endangered species list.
+ It is estimated that 90% of Guam's cycads have been killed and there is
+ no sign of recovery.
+\end_layout
+
+\begin_layout Enumerate
+The same Forest Service survey listed coconut palm, 
+\emph on
+Cocos nucifera
+\emph default
+, as Guam's second most abundant tree.
+ Guam's palms are rapidly being killed by coconut rhinoceros beetle, 
+\emph on
+Oryctes rhinoceros
+\emph default
+, first detected on the island in 2007.
+ It is likely that 50% or more of the island's coconut palms will be lost.
+\end_layout
+
+\begin_layout Standard
+Despite rapid destruction of Guam's forests, as illustrated by these 2 examples,
+ we do not have even a basic checklist which can be used to document changes
+ in biodiversity.
+\end_layout
+
+\begin_layout Standard
+We need a need a biodiversity inventory:
+\end_layout
+
+\begin_layout Itemize
+to document changes to Guam's ecosystems
+\end_layout
+
+\begin_layout Itemize
+to document detection of and impacts caused by invasive species
+\end_layout
+
+\begin_layout Itemize
+to provide free, open access to information on Guam's flora and fauna (including
+ images and occurrence maps) to the global scientific community, policy
+ makers, and the public
+\end_layout
+
+\begin_layout Itemize
+to act as a repository for data from biological surveys and biological collectio
+ns
+\end_layout
+
+\begin_layout Itemize
+to provide links to scientific literature about taxa which occur on Guam
+\end_layout
+
+\begin_layout Itemize
+to document ecological relationships among taxa such as hosts, predators,
+ parasites, and diseases
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+The Guam Forest Biodiversity Inventory will use the Global Biodiversity
+ Information Facility (GBIF) as a repository.
+ A custom web site will be built by the PI to serve as a public interface
+ to Guam biodiversity data stored on GBIF.
+ Darwin Core Archives (DwCA) will be used extensively for transferring data
+ to and from GBIF.
+\begin_inset CommandInset label
+LatexCommand label
+name "lists"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+The Guam Biodiversity Inventory will facilitate automatic generation and
+ updates to lists such as: 
+\end_layout
+
+\begin_layout Itemize
+A list of all invasive species on Guam with year first recorded 
+\end_layout
+
+\begin_layout Itemize
+A list of new species described from specimens collected on Guam 
+\end_layout
+
+\begin_layout Itemize
+A list of observations for Guam’s endangered species 
+\end_layout
+
+\begin_layout Itemize
+A list of Guam’s native plants with associated herbivores and pathogens
+ 
+\end_layout
+
+\begin_layout Itemize
+A list of crops grown on Guam and pests and pathogens which attack them
+ 
+\end_layout
+
+\begin_layout Itemize
+A list of pests and associated biological control agents 
+\end_layout
+
+\begin_layout Itemize
+For any taxon, a literature reference list and links to images 
+\end_layout
+
+\begin_layout Itemize
+Taxonomic checklists and field guides with images
+\end_layout
+
+\begin_layout Section
+Previous Work and Present Outlook 
+\end_layout
+
+\begin_layout Itemize
+This proposal evolves from the PI's previous McIntire-Stennis project entitled
+ 
+\emph on
+Guam Forest Insect Survey.
+\end_layout
+
+\begin_layout Itemize
+The PI recently put the entire UOG insect collection catalog (34,808 specimen
+ records) has recently been put online at 
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://scan-bugs.org/portal/collections/misc/collprofiles.php?collid=180
+\end_layout
+
+\end_inset
+
+ Digital images will be added.
+\end_layout
+
+\begin_layout Itemize
+The PI recently accessioned over 5,000 specimens of insect seed predators
+ from Benita Laird-Hopkins research, part of the Ecology of Bird Loss Project.
+\end_layout
+
+\begin_layout Itemize
+The PI recently put 37,000 digital images of UOG herbarium sheets online
+ at 
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://osf.io/qdg46/?view_only=c39ff58ac28b4bee94dc231b3f2bef95
+\end_layout
+
+\end_inset
+
+.
+ Next step is to link these images with the herbarium database.
+\end_layout
+
+\begin_layout Itemize
+The PI designed Guam Biodiversity Inventory and made a presentation on this
+ at the recent Guam Island Sustainability Conference 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "GuamBDIPresentation2018"
+literal "false"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+The PI has contracted the Bishop Museum to make PDFs of primary entomological
+ literature for Guam, namely 
+\emph on
+Insects of Guam I and Insects of Guam II.
+ 
+\emph default
+These
+\emph on
+ 
+\emph default
+volumes will be made available for public download from the Bishop Museum
+ web site.
+ These books will be data mined for forest biodiversity information.
+\end_layout
+
+\begin_layout Itemize
+The PI recently established an internship so that students can assist in
+ curating the UOG insect collection.
+\end_layout
+
+\begin_layout Section
+Objectives 
+\end_layout
+
+\begin_layout Subsection
+Liberate data from biological collections
+\end_layout
+
+\begin_layout Subsubsection
+Complete digitization of the UOG insect collection
+\end_layout
+
+\begin_layout Standard
+The UOG insect collection catalog has already been made available online
+ using Symbiota.
+ Note that Symbiota uploads data to GBIF.
+ Existing images will be uploaded and linked to specimen data.
+ Images will be made for taxa which have not been previously imaged and
+ these will also be uploaded.
+\end_layout
+
+\begin_layout Subsubsection
+Complete digitization of the UOG herbarium
+\end_layout
+
+\begin_layout Standard
+The existing herbarium catalog will be converted from a local database to
+ an online database using Symbiota or Specify.
+ Both of these online collection database managers upload to GBIF.
+ 
+\end_layout
+
+\begin_layout Subsection
+Liberate data from the Scientific Literature
+\end_layout
+
+\begin_layout Standard
+The PI will organize extraction of Guam biodiversity information from primary
+ scientific publications, starting with 
+\emph on
+Insects of Guam I 
+\emph default
+and 
+\emph on
+II
+\emph default
+.
+\end_layout
+
+\begin_layout Subsection
+Build the Guam Forest Biodiversity Web Site
+\end_layout
+
+\begin_layout Standard
+The PI will launch a web site to serve as a portal to Guam forest biodiversity
+ data stored in GBIF.
+\end_layout
+
+\begin_layout Standard
+Pages will be developed to dynamicly generate lists such as those suggested
+ above (
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "lists"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+).
+\end_layout
+
+\begin_layout Subsection
+Outreach / Citizen Science
+\end_layout
+
+\begin_layout Standard
+The PI will offer annual workshops on the use of iNaturalist, a cell phone
+ social networking app used by citizen scientists and naturalists to record
+ biodiversity observations with images and georeferencing.
+ iNaturalist data which is validated as 
+\emph on
+research grade
+\emph default
+ by the community is automatically uploaded to GBIF.
+\end_layout
+
+\begin_layout Standard
+The PI will work with the UOG Center for Island Sustainability to organize
+ annual bioblitzes.
+ A 
+\begin_inset CommandInset href
+LatexCommand href
+name "bioblitz"
+target "https://en.wikipedia.org/wiki/BioBlitz"
+literal "false"
+
+\end_inset
+
+ is is an intense period of biological surveying in an attempt to record
+ all the living species within a designated area.
+\end_layout
+
+\begin_layout Subsection
+Collaboration
+\end_layout
+
+\begin_layout Itemize
+Collaboration with taxonomists will be cultivated to help identify a large
+ backlog of unidentified specimens in the UOG insect collection.
+ 
+\end_layout
+
+\begin_layout Itemize
+Existing collaboration with existing partners list in section 7 will be
+ maintained.
+\end_layout
+
+\begin_layout Itemize
+The PI will participate in at least one scientific meeting cover biological
+ collections or biodiversity informatics per year.
+ 
+\end_layout
+
+\begin_layout Itemize
+The PI will encourage donation of voucher specimens to the UOG insect collection
+ from biological surveys such as those being conducted by the Ecology of
+ Bird Loss and the baseline surveys being done by military contractors in
+ support of the military buildup.
+\end_layout
+
+\begin_layout Section
+Duration and Timetable 
+\end_layout
+
+\begin_layout Subsection
+Duration
+\end_layout
+
+\begin_layout Standard
+This performance period for this project will be 5 years.
+ 
+\end_layout
+
+\begin_layout Subsection
+Timetable
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="6" columns="6">
+<features tabularvalignment="middle">
+<column alignment="left" valignment="top" width="0pt">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Objective
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Y1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Y2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Y3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Y4
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Y5
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1.
+ Liberate data from Biological Collections
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+X
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2.
+ Liberate data from the Scientific Literature
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+X
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+X
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+X
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+X
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+3.
+ Build the Guam Forest Biodiversity Web Site
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+X
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+X
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+4.
+ Outreach / Citizen Science
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+X
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+X
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+X
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+X
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+X
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5.
+ Collaboration
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+X
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+X
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+X
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+X
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+X
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Financial Support/Budget
+\end_layout
+
+\begin_layout Description
+Staff
+\begin_inset space ~
+\end_inset
+
+Salary $8,000 per year will be used to fund an existing student internship
+ program.
+ Interns assist in curation of the University of Guam insect collection.
+ Students will also assist in entering data into the Guam Forest Biodiversity
+ Inventory database.
+\end_layout
+
+\begin_layout Description
+Travel $4,000 per year will facilitate UOG participation in professional
+ meetings and workshops on biological collections and biodiversity informatics
+ such as those hosted by the Integrated Digitized Biocollections Project
+ (iDigBio) and the Entomological Collections Network (ECN).
+ First year funding will allow the PI to attend the ECN meeting associated
+ with the Entomological Society of America meeting in Vancouver during November
+ 2018.
+ Travel money may also be used to support visits to Guam by taxonomists
+ willing to identify specimens in UOG collections.
+\end_layout
+
+\begin_layout Description
+Materials
+\begin_inset space ~
+\end_inset
+
+and
+\begin_inset space ~
+\end_inset
+
+Supplies $4,000 per year will fund entomological supplies required to maintain
+ the UOG insect collection.
+ Some of this money will be used for shipping specimens for identification
+ by taxonomists.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset External
+	template PDFPages
+	filename McStennis Budget Sheet template.pdf
+	lyxscale 20
+	extra LaTeX "pages=-"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Personnel
+\end_layout
+
+\begin_layout Description
+Guam
+\begin_inset space ~
+\end_inset
+
+Forest
+\begin_inset space ~
+\end_inset
+
+Biodiversity
+\begin_inset space ~
+\end_inset
+
+Inventory
+\begin_inset space ~
+\end_inset
+
+Database The Guam Forest Biodiversity Inventory database will be designed
+ and maintained by the PI with no direct cost to this project.
+ Student interns will assist with data entry.
+\end_layout
+
+\begin_layout Description
+University
+\begin_inset space ~
+\end_inset
+
+of
+\begin_inset space ~
+\end_inset
+
+Guam
+\begin_inset space ~
+\end_inset
+
+Insect
+\begin_inset space ~
+\end_inset
+
+Collection The University of Guam Insect Collection is curated by the PI
+ and Dr.
+ Ross Miller with no direct cost to this project.
+ Student interns will assist with curation.
+\end_layout
+
+\begin_layout Description
+University
+\begin_inset space ~
+\end_inset
+
+of
+\begin_inset space ~
+\end_inset
+
+Guam
+\begin_inset space ~
+\end_inset
+
+Herbarium The University of Guam Herbarium is curated by Dr.
+ Xiao Wei with database support from Dr.
+ Tom Schills with no direct cost to this project.
+\end_layout
+
+\begin_layout Section
+Cooperation/Collaboration
+\end_layout
+
+\begin_layout Itemize
+Guam Plant Extinction Prevention Program (GPEPP)
+\end_layout
+
+\begin_layout Itemize
+Secretariat of the Pacific Regional Environment Program (SPREP)
+\end_layout
+
+\begin_layout Itemize
+International Union for the Conservation of Nature, Invasive Species Specialist
+ Group (IUCN ISSG)
+\end_layout
+
+\begin_layout Itemize
+University of Guam Herbarium
+\end_layout
+
+\begin_layout Itemize
+University of Guam Insect Collection
+\end_layout
+
+\begin_layout Itemize
+Guam Invasive Species Council (GISC)
+\end_layout
+
+\begin_layout Itemize
+Digitized Biocollections Project (IDigBio)
+\end_layout
+
+\begin_layout Itemize
+Entomological Collections Network (ECN)
+\end_layout
+
+\begin_layout Itemize
+Symbiota Collections of Arthropods Network (SCAN/Symbiota)
+\end_layout
+
+\begin_layout Itemize
+iNaturalist
+\end_layout
+
+\begin_layout Itemize
+University of Guam EPSCOR
+\end_layout
+
+\begin_layout Itemize
+University of Guam Center for Island Sustainability
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+btprint "btPrintCited"
+bibfiles "refs"
+options "plainnat"
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document

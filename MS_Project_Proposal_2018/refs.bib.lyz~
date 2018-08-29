@@ -1,0 +1,20 @@
+﻿1_MXFA66BK
+
+@misc{moore2018building,
+	title = {Building a {Terrestrial} {Biodiversity} {Inventory} for {Guam}},
+	url = {https://figshare.com/articles/Building_a_Terrestrial_Biodiversity_Inventory_for_Guam/6188315},
+	abstract = {Presented at the Guam Island Sustainability Conference, Guam, March 29, 2018.},
+	urldate = {2018-05-30},
+	author = {Moore, Aubrey},
+	month = apr,
+	year = {2018},
+	doi = {10.6084/m9.figshare.6188315.v1},
+	keywords = {biodiversity informatics},
+	file = {Figshare Snapshot:/home/aubrey/Zotero/storage/7QFRJ63C/6188315.pdf:application/pdf}
+}
+
+@misc{GuamBDIPresentation2018,
+author={Moore, Aubrey},
+year={2018},
+url={https://github.com/aubreymoore/Guam-Biodiversity-Inventory-Presentation/raw/master/guam_biodiversity_inventory_presentation.pdf}
+}

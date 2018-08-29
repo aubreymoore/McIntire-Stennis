@@ -1,0 +1,300 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass scrartcl
+\begin_preamble
+\usepackage{mciteplus}
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref true
+\pdf_bookmarks true
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks true
+\pdf_pdfborder true
+\pdf_colorlinks true
+\pdf_backref false
+\pdf_pdfusetitle true
+\pdf_quoted_options "linkcolor=blue,citecolor=blue,urlcolor=blue"
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+MacIntire-Stennis Report for FY2016: Guam Forest Insect Survey
+\end_layout
+
+\begin_layout Author
+Aubrey Moore
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+name "Project pages"
+target "http://portal.nifa.usda.gov/web/crisprojectpages/1005269-guam-forest-insect-survey.html"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Progress 11/28/14 to 09/30/15 
+\end_layout
+
+\begin_layout Subsection
+Outputs
+\end_layout
+
+\begin_layout Standard
+Target Audience:I provided information to the Guam Plant Extinction Prevention
+ Project staff and the United States Fish and Wildlife Service staff at
+ the Guam National Wildlife Refuge.
+ This information included identification of insect specimens given to me
+ and recommendations on plant protection.
+ Fact sheets on newly arrived invasive species were prepared and made available
+ to the public in print and on web site.
+ Changes/Problems:A planned visit by an insect taxonomist to assist in identific
+ation of a large backlog in the University of Guam Insect Collection did
+ not happen during the reporting period because of schedualing problems.
+ A visit by a taxonomist is being planned for 2016.
+ What opportunities for training and professional development has the project
+ provided?Informal training in insect specimen collection and preservation
+ was provided to staff of the Guam Plant Extinction Prevention Pogram (GPEPP)
+ during several visits to the project's nursery and field sites.
+ In some cases, pest control recommendations were provided.
+ How have the results been disseminated to communities of interest?Fact
+ sheets on newly arrived invasive insect species were prepared and these
+ are available to the public in print and on-line.
+ What do you plan to do during the next reporting period to accomplish the
+ goals?I plan to offer a workshop to staff of the Guam Department of Agriculture
+ Forestry Division on survey and collection methods for forest insect pests.
+ I plan to submit two refereed journal articles on recently arrived bark
+ beetles species.
+ I plan to host a visiting taxonomist to help identify a large backlog of
+ unidentified specimens submitted to the University of Guam Insect Collection.
+ A student technician will be hired to coincide with the taxonomist's visit.
+ 
+\end_layout
+
+\begin_layout Subsection
+Impacts
+\end_layout
+
+\begin_layout Standard
+What was accomplished under these goals? A web application named CheckList
+ Plus (CLP) was designed and developed to faciliate databasing and accessing
+ information on Guam's forest pests.
+ All organisms in CLP are linked to taxa in the taxonomy database maintained
+ by the National Center for Biotechnology Information (NCBI).
+ The NCBI taxonomy database is essentially a digitized tree of life which
+ includes scientific names and synonyms including common names.
+ Unlike many biodiversity databases, CLP allows definiton of trophic links
+ between taxa.
+ This allows queries to find all insect herbivores which feed on a particular
+ host plant, or conversely, to find all host plants on which a particular
+ insect feeds.
+ The CLP is currently being populated with data from several sources: the
+ scientific literature and specimen data from the University of Guam Insect
+ Collection.
+ Many specimens of forest insect pests collected by the Guam Plant Extinction
+ Prevention Program, the Guam National Wildlife Refuge, and other collaborators
+ were accessioned into the University of Guam Insect Collection during the
+ reporting period.
+ Most of these specimens await identification by a taxonomist.
+ 
+\end_layout
+
+\begin_layout Subsection
+Publications
+\end_layout
+
+\begin_layout Standard
+Type: Conference Papers and Presentations Status: Published Year Published:
+ 2015 Citation: Ares, M.
+ A., N.
+ Meneses, A.
+ Smith, Aubrey Moore, and R.
+ Benford.
+ 2015.
+ Molecular Identification of a Lepidopteran Herbivore on a Critically Endangered
+ Tree.
+ In Northern Arizona Undergraduate Symposium.
+ Type: Journal Articles Status: Published Year Published: 2014 Citation:
+ Fisher, Nicole, Aubrey Moore, Bradley Brown, Matthew Purcell, Gary Taylor,
+ and John Salle.
+ 2014.
+ Two New Species of Selitrichodes (Hymenoptera: Eulophidae: Tetrastichinae)
+ Inducing Galls on Casuarina (Casuarinaceae).
+ Zootaxa 3790 (4): 534{
+\backslash
+textendash}542.
+ http://biotaxa.org/Zootaxa/article/view/zootaxa.3790.4.2/7933.
+ Type: Journal Articles Status: Published Year Published: 2015 Citation:
+ Moore, Aubrey, Trevor Jackson, Roland Quitugua, Paul Bassler, and Russell
+ Campbell.
+ 2015.
+ Coconut Rhinoceros Beetles ( Coleoptera : Scarabaeidae ) Develop in Arboreal
+ Breeding Sites in Guam.
+ Florida Entomologist 98 (3): 101214.
+ http://journals.fcla.edu/flaent/article/download/84794/84044.
+ Type: Conference Papers and Presentations Status: Published Year Published:
+ 2015 Citation: Moore, Aubrey, and Western Pacific.
+ 2015.
+ Failure Analysis of the Guam Coconut Rhinoceros Beetle Eradication Project
+ Aubrey Moore Western Pacific Tropical Research Center.
+ In Pacific Entomology Conference, 12.
+ Honolulu.
+ Type: Conference Papers and Presentations Status: Published Year Published:
+ 2015 Citation: Moore, Aubrey, and Roland Quitugua.
+ 2015.
+ Coconut Rhinoceros Beetle Trap Improvements.
+ In Pacific Entomology Conference.
+ Honolulu.
+ http://guaminsects.net/anr/sites/default/files/pec2015-improved-traps.pdf.
+ Type: Conference Papers and Presentations Status: Published Year Published:
+ 2015 Citation: Moore, Aubrey.
+ 2015.
+ A Report on the Guam Coconut Rhinoceros Beetle Infestation.
+ In Pacific Plant Protection Organization.
+ Nadi, Fiji.
+ Type: Conference Papers and Presentations Status: Published Year Published:
+ 2015 Citation: Marshall, Sean David Goldie, Maclean Vaqalo, Aubrey Moore,
+ Roland Quitugua, and Trevor A Jackson.
+ 2015.
+ A New Invasive Biotype of the Coconut Rhinoceros Beetle (Oryctes Rhinoceros)
+ Has Escaped from Biocontrol by Oryctes Rhinoceros Nudivirus.
+ In International Congress on Invertebrate Pathology and Microbial Control
+ and the 48th Annual Meeting of the Society for Invertebrate Pathology.
+ Vancouver, BC.
+ http://www.sipmeeting.org/van1/SIP2015-Full Program.pdf.
+ Type: Other Status: Published Year Published: 2015 Citation: Vaqalo, Maclean,
+ Sean Marshall, Trevor Jackson, and Aubrey Moore.
+ 2015.
+ Pest Alert 51: An Emerging Biotype of Coconut Rhinoceros Beetle Discovered
+ in the Pacific.
+ Suva, Fiji: Secretariat of the Pacific Community, Land Resources Division.
+\end_layout
+
+\begin_layout Section
+Progress 10/01/15 to 09/30/16 
+\end_layout
+
+\begin_layout Subsection
+Outputs
+\end_layout
+
+\begin_layout Itemize
+Taxonomic Assistance 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Peter's visit 
+\end_layout
+
+\begin_layout Itemize
+collaboration with Luc LeBlanc; 
+\end_layout
+
+\begin_layout Itemize
+Specify 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+CRB: 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ICE meeting 
+\end_layout
+
+\begin_layout Itemize
+Foreign exploration 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Guam Biodiversity Inventory database 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Datamining begun using Golden Gate Imagine Editor 
+\end_layout
+
+\begin_layout Itemize
+Crop Pests DB updated 
+\end_layout
+
+\begin_layout Itemize
+iNat project
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+Impacts 
+\end_layout
+
+\begin_layout Subsection
+Publications 
+\end_layout
+
+\end_body
+\end_document
