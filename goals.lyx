@@ -1,0 +1,227 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass scrartcl
+\begin_preamble
+\usepackage{longtable}
+\usepackage{url}
+\usepackage{booktabs}
+\usepackage{colortbl}
+\usepackage{ragged2e}
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 12
+\spacing single
+\use_hyperref true
+\pdf_bookmarks true
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks true
+\pdf_pdfborder false
+\pdf_colorlinks true
+\pdf_backref false
+\pdf_pdfusetitle true
+\pdf_quoted_options "urlcolor=blue,linkcolor=blue"
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\multibib section
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 2
+\tocdepth 2
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Section
+Goal: Liberate data from biological collections 
+\end_layout
+
+\begin_layout Subsection
+Objective: Complete digitization of the UOG insect collection 
+\end_layout
+
+\begin_layout Standard
+The UOG insect collection catalog has already been made available online
+ using Symbiota.
+ Note that Symbiota automatically uploads data to GBIF.
+ The next phase of this digitization project will be imaging of all taxa
+ in the collection.
+ Existing images will be uploaded and linked to specimen data.
+ Images will be made for taxa which have not been previously imaged and
+ these will also be uploaded.
+ 
+\end_layout
+
+\begin_layout Subsection
+Objective: Complete digitization of the UOG herbarium 
+\end_layout
+
+\begin_layout Standard
+Digital images are available for all herbarium sheets.
+ The existing herbarium catalog will be converted from a local database
+ to an online database using Symbiota or Specify.
+ Both of these online collection database managers automatically upload
+ to GBIF.
+ 
+\end_layout
+
+\begin_layout Subsection
+Objective: Liberate data from the scientific literature 
+\end_layout
+
+\begin_layout Standard
+The PI will organize extraction of Guam biodiversity information from primary
+ scientific publications, starting with Insects of Guam I and II.
+ 
+\end_layout
+
+\begin_layout Section
+Goal: Provide public access to Guam forest biodiversity data
+\end_layout
+
+\begin_layout Subsection
+Objective: Build the Guam Forest Biodiversity Web Site 
+\end_layout
+
+\begin_layout Standard
+The PI will launch a web site to serve as a portal to Guam forest biodiversity
+ data stored in GBIF.
+ Pages will be developed to dynamically generate lists such as those suggested
+ above.
+ 
+\end_layout
+
+\begin_layout Section
+Goal: Foster public interest in Guam's forest biodiversity
+\end_layout
+
+\begin_layout Subsection
+Objective: Outreach and Citizen Science Activities
+\end_layout
+
+\begin_layout Itemize
+The PI will offer annual workshops on the use of iNaturalist, a social networkin
+g app used by citizen scientists and naturalists which enables them to record
+ biodiversity observations with images and georeferencing using smart phones.
+ iNaturalist data which is validated as research grade by the community
+ is automatically uploaded to GBIF.
+ 
+\end_layout
+
+\begin_layout Itemize
+The PI will continue to maintain an iNaturalist project entitled Insects
+ of Micronesia.
+ 
+\end_layout
+
+\begin_layout Itemize
+The PI will work with the UOG Center for Island Sustainability to organize
+ annual bioblitzes.
+ A bioblitz is is an intense period of biological surveying in an attempt
+ to record all the living species within a designated area.
+ Participants in the bioblitzes will be trained to use iNaturalist which
+ will be used to document results.
+ 
+\end_layout
+
+\begin_layout Section
+Goal: Foster collaboration to help overcome the 
+\emph on
+taxonomic impediment
+\end_layout
+
+\begin_layout Subsection
+Objective: Collaboration with taxonomists, collectors and the biodiversity
+ informatics community
+\end_layout
+
+\begin_layout Itemize
+Collaboration with taxonomists will be cultivated to help identify a large
+ backlog of unidentified specimens in the UOG insect collection.
+ 
+\end_layout
+
+\begin_layout Itemize
+Existing collaboration will be maintained with existing partners list in
+ the Collaboration/Cooperation section of this proposal.
+ 
+\end_layout
+
+\begin_layout Itemize
+The PI will participate in at least one scientific meeting per year covering
+ biological collections and/or biodiversity informatics.
+ 
+\end_layout
+
+\begin_layout Itemize
+The PI will encourage donation of voucher specimens to the UOG insect collection
+ from biological surveys such as those being conducted by the Ecology of
+ Bird Loss and the baseline surveys being done by military contractors in
+ support of the military buildup.
+\end_layout
+
+\end_body
+\end_document
