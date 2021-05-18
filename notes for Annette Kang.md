@@ -19,4 +19,4 @@ Prepared by Aubrey Moore, May 18, 2021
 
 #### Example Usage
 
-The chapter on thrips in Insects of Guam I was annotated and the data were published in [this Zenodo journal article](https://zenodo.org/record/3634035#.YKNHgiYRXS8). Ther data were also automatically uploaded to a [GBIF dataset](https://www.gbif.org/dataset/9c8d5683-76c1-4938-aede-b7ad5391b6b2).
+The Thrips of Guam chapter in Insects of Guam I was annotated by GGI, the data were published in [this Zenodo journal article](https://zenodo.org/record/3634035#.YKNHgiYRXS8), they were also automatically uploaded to a [GBIF dataset](https://www.gbif.org/dataset/9c8d5683-76c1-4938-aede-b7ad5391b6b2). So this can be done. Just a matter of learning how.
