@@ -15,7 +15,8 @@ Prepared by Aubrey Moore, May 18, 2021
 
 ### Golden Gate Imagine
 
-[Download page](http://plazi.org/resources/treatmentbank/goldengate-editor/)
+* [Download page](http://plazi.org/resources/treatmentbank/goldengate-editor/)
+* The [GGI community portal](https://github.com/plazi/community) provides training materials and more.
 
 #### Example Usage
 
