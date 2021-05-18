@@ -14,7 +14,7 @@ Prepared by Aubrey Moore, May 18, 2021
  
 ## Software Tools
 
-###Golden Gate Imagine
+### Golden Gate Imagine
 
-[GitHub repository](https://github.com/plazi/GoldenGATE-Imagine) The seems like it ids very dated. You should probably not install from here. I will find the best source for download and update this here.
+[GitHub repository](https://github.com/plazi/GoldenGATE-Imagine) This GGI repo seems like it is very dated. You should probably not install from here. I will find the best source for download and update this info here.
 
