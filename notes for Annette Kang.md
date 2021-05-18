@@ -13,7 +13,7 @@ Prepared by Aubrey Moore, May 18, 2021
  
 ## Software Tools
 
-### Golden Gate Imagine
+### Golden Gate Imagine(GGI)
 
 * [Download page](http://plazi.org/resources/treatmentbank/goldengate-editor/)
 * The [GGI community portal](https://github.com/plazi/community) provides training materials and more.
