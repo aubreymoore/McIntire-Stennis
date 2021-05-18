@@ -10,7 +10,6 @@ Prepared by Aubrey Moore, May 18, 2021
 
 * [Insects of Guam I](http://hbs.bishopmuseum.org/pubs-online/bpbm-bulletins.html) scroll down to Vulume 172
 * [Insects of Guam II](http://hbs.bishopmuseum.org/pubs-online/bpbm-bulletins.html) scroll down to Volume 189
-* [Example](https://zenodo.org/record/3634035#.YKNHgiYRXS8) This is ...
  
 ## Software Tools
 
@@ -18,3 +17,4 @@ Prepared by Aubrey Moore, May 18, 2021
 
 [GitHub repository](https://github.com/plazi/GoldenGATE-Imagine) This GGI repo seems like it is very dated. You should probably not install from here. I will find the best source for download and update this info here.
 
+Example usage. The chapter on [thrips in Insects of Guam I](https://zenodo.org/record/3634035#.YKNHgiYRXS8) was annotated and the data were published in this Zenodo journal article. Ther data were also automatically uploaded to a [GBIF dataset](https://www.gbif.org/dataset/9c8d5683-76c1-4938-aede-b7ad5391b6b2).
