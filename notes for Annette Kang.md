@@ -15,7 +15,7 @@ Prepared by Aubrey Moore, May 18, 2021
 
 ### Golden Gate Imagine
 
-[GitHub repository](https://github.com/plazi/GoldenGATE-Imagine) This GGI repo seems like it is very dated. You should probably not install from here. I will find the best source for download and update this info here.
+[Download page](http://plazi.org/resources/treatmentbank/goldengate-editor/)
 
 #### Example Usage
 
