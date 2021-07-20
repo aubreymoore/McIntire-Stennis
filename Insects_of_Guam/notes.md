@@ -1,1 +1,1 @@
-wget -A.pdf -F --input-file=index.html
+wget -A.pdf -F --input-file=old_index.html
