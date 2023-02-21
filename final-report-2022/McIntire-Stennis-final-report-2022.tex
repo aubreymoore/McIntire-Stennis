@@ -9,9 +9,9 @@
 \usepackage{fullpage}
 %\usepackage{subfiles}
 \usepackage[T1]{fontenc}
-\usepackage[latin9]{inputenc}
+\usepackage[utf8]{inputenc}
 \usepackage{color}
-\usepackage{babel}
+%\usepackage{babel}
 \usepackage{verbatim}
 \usepackage[unicode=true,pdfusetitle,
 bookmarks=true,bookmarksnumbered=false,bookmarksopen=false,
@@ -27,9 +27,18 @@ breaklinks=true,pdfborder={0 0 0},pdfborderstyle={},backref=false,colorlinks=tru
 \usepackage{csquotes}
 \usepackage{soul} % for hiliting text: \hl
 
-\usepackage[backend=biber, style=authoryear, maxbibnames=99, dashed=false]{biblatex}
-\setlength\bibitemsep{2\itemsep}
-%\addbibresource{mylibrary.bib}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+%\usepackage{biblatex}
+%\addbibresource{sample.bib}
+
+
+
+%\usepackage[backend=biber, maxbibnames=99, dashed=false]{biblatex}
+\usepackage[backend=biber, maxbibnames=99]{biblatex}
+\DeclareNameAlias{author}{family-given}
+%\setlength\bibitemsep{2\itemsep}
+\addbibresource{blr.bib}
 %\addbibresource{CRB.bib}
 
 \usepackage{pdfpages}
@@ -69,14 +78,27 @@ breaklinks=true,pdfborder={0 0 0},pdfborderstyle={},backref=false,colorlinks=tru
 	\label{fig:diag1}
 \end{figure}
 
-\section{Data from the University of Guam Insect Collection}
 
+\pagebreak
+\section{Data from the University of Guam Insect Collection}
+\subsection{Acknowledgments}
+
+
+\pagebreak
 \section{Data from Insects of Guam Publications}
 
+\nocite{*}
+\printbibliography[heading=none]
+
+\subsection{Acknowledgments}
+
+
+\pagebreak
 \section{Data from iNaturalist}
+\subsection{Acknowledgments}
 
-\clearpage
 
+\pagebreak
 \section{Guam Biodiversity Information from the GBIF}
 
 % TODO: \usepackage{graphicx} required
@@ -90,6 +112,10 @@ breaklinks=true,pdfborder={0 0 0},pdfborderstyle={},backref=false,colorlinks=tru
 \clearpage
 
 \input{datasets.tex}
+
+\pagebreak
+\section{Guam Biodiversity Information from the GloBI}
+
 
 
 \end{document}

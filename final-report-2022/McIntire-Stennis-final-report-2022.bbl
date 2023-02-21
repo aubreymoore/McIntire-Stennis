@@ -1,0 +1,1380 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{alexander_c_p_1942_5174000}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=e95fc86c591a385c607693517504c267}{%
+           family={Alexander},
+           familyi={A\bibinitperiod},
+           given={C.P.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Bernice P. Bishop Museum, Bulletin, 172}%
+      }
+      \strng{namehash}{e95fc86c591a385c607693517504c267}
+      \strng{fullhash}{e95fc86c591a385c607693517504c267}
+      \strng{bibnamehash}{e95fc86c591a385c607693517504c267}
+      \strng{authorbibnamehash}{e95fc86c591a385c607693517504c267}
+      \strng{authornamehash}{e95fc86c591a385c607693517504c267}
+      \strng{authorfullhash}{e95fc86c591a385c607693517504c267}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{title}{Diptera, Tipulidae of Guam}
+      \field{year}{1942}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.5281/zenodo.5174000
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.5174000
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.5174000
+      \endverb
+    \endentry
+    \entry{banks_nathan_1942_5159923}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=95b70e4aa539bb8fe6108beb27d8a648}{%
+           family={Banks},
+           familyi={B\bibinitperiod},
+           given={Nathan},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Bernice P. Bishop Museum}%
+      }
+      \strng{namehash}{95b70e4aa539bb8fe6108beb27d8a648}
+      \strng{fullhash}{95b70e4aa539bb8fe6108beb27d8a648}
+      \strng{bibnamehash}{95b70e4aa539bb8fe6108beb27d8a648}
+      \strng{authorbibnamehash}{95b70e4aa539bb8fe6108beb27d8a648}
+      \strng{authornamehash}{95b70e4aa539bb8fe6108beb27d8a648}
+      \strng{authorfullhash}{95b70e4aa539bb8fe6108beb27d8a648}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{title}{Neuropteroid Insects from Guam}
+      \field{year}{1942}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.5281/zenodo.5159923
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.5159923
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.5159923
+      \endverb
+    \endentry
+    \entry{bernhauer_max_1942_5159420}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=7b90fd07709fcbdefb80c42bda5c962a}{%
+           family={Bernhauer},
+           familyi={B\bibinitperiod},
+           given={Max},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Bernice P. Bishop Museum}%
+      }
+      \strng{namehash}{7b90fd07709fcbdefb80c42bda5c962a}
+      \strng{fullhash}{7b90fd07709fcbdefb80c42bda5c962a}
+      \strng{bibnamehash}{7b90fd07709fcbdefb80c42bda5c962a}
+      \strng{authorbibnamehash}{7b90fd07709fcbdefb80c42bda5c962a}
+      \strng{authornamehash}{7b90fd07709fcbdefb80c42bda5c962a}
+      \strng{authorfullhash}{7b90fd07709fcbdefb80c42bda5c962a}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{title}{Coleoptera, Staphylinidae Of Guam}
+      \field{year}{1942}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.5281/zenodo.5159420
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.5159420
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.5159420
+      \endverb
+    \endentry
+    \entry{blair_k_g_1942_5159673}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=b063cc77912e3e77afe7e08f5afcc92a}{%
+           family={Blair},
+           familyi={B\bibinitperiod},
+           given={K.\bibnamedelimi G.},
+           giveni={K\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Bernice P. Bishop Museum}%
+      }
+      \strng{namehash}{b063cc77912e3e77afe7e08f5afcc92a}
+      \strng{fullhash}{b063cc77912e3e77afe7e08f5afcc92a}
+      \strng{bibnamehash}{b063cc77912e3e77afe7e08f5afcc92a}
+      \strng{authorbibnamehash}{b063cc77912e3e77afe7e08f5afcc92a}
+      \strng{authornamehash}{b063cc77912e3e77afe7e08f5afcc92a}
+      \strng{authorfullhash}{b063cc77912e3e77afe7e08f5afcc92a}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{title}{Coleoptera Heteromera From Guam}
+      \field{year}{1942}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.5281/zenodo.5159673
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.5159673
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.5159673
+      \endverb
+    \endentry
+    \entry{cadwell_j_s_1942_5159783}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=01671ef206d37865cd2b141fd4622ac7}{%
+           family={Cadwell},
+           familyi={C\bibinitperiod},
+           given={J.\bibnamedelimi S.},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Bernice P. Bishop Museum Bulletin 172}%
+      }
+      \strng{namehash}{01671ef206d37865cd2b141fd4622ac7}
+      \strng{fullhash}{01671ef206d37865cd2b141fd4622ac7}
+      \strng{bibnamehash}{01671ef206d37865cd2b141fd4622ac7}
+      \strng{authorbibnamehash}{01671ef206d37865cd2b141fd4622ac7}
+      \strng{authornamehash}{01671ef206d37865cd2b141fd4622ac7}
+      \strng{authorfullhash}{01671ef206d37865cd2b141fd4622ac7}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{title}{Psyllidae from Guam}
+      \field{year}{1942}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.5281/zenodo.5159783
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.5159783
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.5159783
+      \endverb
+    \endentry
+    \entry{cockerell_t_d_a_1942_5160456}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=9bb86d54310d162bbd79294238fe0bdd}{%
+           family={Cockerell},
+           familyi={C\bibinitperiod},
+           given={T.\bibnamedelimi D.\bibnamedelimi A.},
+           giveni={T\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Bernice P. Bishop Museum}%
+      }
+      \strng{namehash}{9bb86d54310d162bbd79294238fe0bdd}
+      \strng{fullhash}{9bb86d54310d162bbd79294238fe0bdd}
+      \strng{bibnamehash}{9bb86d54310d162bbd79294238fe0bdd}
+      \strng{authorbibnamehash}{9bb86d54310d162bbd79294238fe0bdd}
+      \strng{authornamehash}{9bb86d54310d162bbd79294238fe0bdd}
+      \strng{authorfullhash}{9bb86d54310d162bbd79294238fe0bdd}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{title}{Halictine Bees from Rota Island}
+      \field{year}{1942}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.5281/zenodo.5160456
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.5160456
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.5160456
+      \endverb
+    \endentry
+    \entry{cockerelll_t_d_a_1942_5160372}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=6fff427ea7381471666aa5f62308e162}{%
+           family={CockerellL},
+           familyi={C\bibinitperiod},
+           given={T.\bibnamedelimi D.\bibnamedelimi A.},
+           giveni={T\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Bernice P. Bishop Museum}%
+      }
+      \strng{namehash}{6fff427ea7381471666aa5f62308e162}
+      \strng{fullhash}{6fff427ea7381471666aa5f62308e162}
+      \strng{bibnamehash}{6fff427ea7381471666aa5f62308e162}
+      \strng{authorbibnamehash}{6fff427ea7381471666aa5f62308e162}
+      \strng{authornamehash}{6fff427ea7381471666aa5f62308e162}
+      \strng{authorfullhash}{6fff427ea7381471666aa5f62308e162}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{title}{Bees of Guam}
+      \field{year}{1942}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.5281/zenodo.5160372
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.5160372
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.5160372
+      \endverb
+    \endentry
+    \entry{fullaway_d_t_1946_5169330}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=5365a960cf96001493353a63d19517c6}{%
+           family={Fullaway},
+           familyi={F\bibinitperiod},
+           given={D.\bibnamedelimi T.},
+           giveni={D\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Bernice P. Bishop Museum}%
+      }
+      \strng{namehash}{5365a960cf96001493353a63d19517c6}
+      \strng{fullhash}{5365a960cf96001493353a63d19517c6}
+      \strng{bibnamehash}{5365a960cf96001493353a63d19517c6}
+      \strng{authorbibnamehash}{5365a960cf96001493353a63d19517c6}
+      \strng{authornamehash}{5365a960cf96001493353a63d19517c6}
+      \strng{authorfullhash}{5365a960cf96001493353a63d19517c6}
+      \field{extraname}{1}
+      \field{sortinit}{F}
+      \field{sortinithash}{fb0c0faa89eb6abae8213bf60e6799ea}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{Hymenoptera, New Species Of Guam Chalcidoidea}
+      \field{year}{1946}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.5281/zenodo.5169330
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.5169330
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.5169330
+      \endverb
+    \endentry
+    \entry{fullaway_d_t_1946_5156759}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=5365a960cf96001493353a63d19517c6}{%
+           family={Fullaway},
+           familyi={F\bibinitperiod},
+           given={D.\bibnamedelimi T.},
+           giveni={D\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Bernice P. Bishop Museum}%
+      }
+      \strng{namehash}{5365a960cf96001493353a63d19517c6}
+      \strng{fullhash}{5365a960cf96001493353a63d19517c6}
+      \strng{bibnamehash}{5365a960cf96001493353a63d19517c6}
+      \strng{authorbibnamehash}{5365a960cf96001493353a63d19517c6}
+      \strng{authornamehash}{5365a960cf96001493353a63d19517c6}
+      \strng{authorfullhash}{5365a960cf96001493353a63d19517c6}
+      \field{extraname}{2}
+      \field{sortinit}{F}
+      \field{sortinithash}{fb0c0faa89eb6abae8213bf60e6799ea}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{Ichneumonidae, Evaniidae, And Braconidae Of Guam}
+      \field{year}{1946}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.5281/zenodo.5156759
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.5156759
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.5156759
+      \endverb
+    \endentry
+    \entry{fullaway_d_t_1946_5164252}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=5365a960cf96001493353a63d19517c6}{%
+           family={Fullaway},
+           familyi={F\bibinitperiod},
+           given={D.T.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Bernice P. Bishop Museum Bulletin 189}%
+      }
+      \strng{namehash}{5365a960cf96001493353a63d19517c6}
+      \strng{fullhash}{5365a960cf96001493353a63d19517c6}
+      \strng{bibnamehash}{5365a960cf96001493353a63d19517c6}
+      \strng{authorbibnamehash}{5365a960cf96001493353a63d19517c6}
+      \strng{authornamehash}{5365a960cf96001493353a63d19517c6}
+      \strng{authorfullhash}{5365a960cf96001493353a63d19517c6}
+      \field{extraname}{3}
+      \field{sortinit}{F}
+      \field{sortinithash}{fb0c0faa89eb6abae8213bf60e6799ea}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{Coccidae of Guam}
+      \field{year}{1946}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.5281/zenodo.5164252
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.5164252
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.5164252
+      \endverb
+    \endentry
+    \entry{gressitt_j_linsley_1942_5159791}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=178938c8db26fea87dd1625c1193b195}{%
+           family={Gressitt},
+           familyi={G\bibinitperiod},
+           given={J.\bibnamedelimi Linsley},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Bernice P. Bishop Museum}%
+      }
+      \strng{namehash}{178938c8db26fea87dd1625c1193b195}
+      \strng{fullhash}{178938c8db26fea87dd1625c1193b195}
+      \strng{bibnamehash}{178938c8db26fea87dd1625c1193b195}
+      \strng{authorbibnamehash}{178938c8db26fea87dd1625c1193b195}
+      \strng{authornamehash}{178938c8db26fea87dd1625c1193b195}
+      \strng{authorfullhash}{178938c8db26fea87dd1625c1193b195}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{title}{New Longicorn Beetles From Guam (Cerambycidae)}
+      \field{year}{1942}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.5281/zenodo.5159791
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.5159791
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.5159791
+      \endverb
+    \endentry
+    \entry{johannse_o_a_1946_5169292}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=100df251fa26b6783656cd58dac2642d}{%
+           family={Johannse},
+           familyi={J\bibinitperiod},
+           given={O.\bibnamedelimi A.},
+           giveni={O\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Bernice P. Bishop Museum}%
+      }
+      \strng{namehash}{100df251fa26b6783656cd58dac2642d}
+      \strng{fullhash}{100df251fa26b6783656cd58dac2642d}
+      \strng{bibnamehash}{100df251fa26b6783656cd58dac2642d}
+      \strng{authorbibnamehash}{100df251fa26b6783656cd58dac2642d}
+      \strng{authornamehash}{100df251fa26b6783656cd58dac2642d}
+      \strng{authorfullhash}{100df251fa26b6783656cd58dac2642d}
+      \field{sortinit}{J}
+      \field{sortinithash}{c45040a764d616897e7f5b30174d7b92}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{Some New Species Of Nemocerous Diptera From Guam}
+      \field{year}{1946}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.5281/zenodo.5169292
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.5169292
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.5169292
+      \endverb
+    \endentry
+    \entry{lallemand_v_1942_5159714}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=c4a2d8cc54a09f1b6d5725ffaeb1f857}{%
+           family={LALLEMAND},
+           familyi={L\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Bernice P. Bishop Museum, Bulletin 172}%
+      }
+      \strng{namehash}{c4a2d8cc54a09f1b6d5725ffaeb1f857}
+      \strng{fullhash}{c4a2d8cc54a09f1b6d5725ffaeb1f857}
+      \strng{bibnamehash}{c4a2d8cc54a09f1b6d5725ffaeb1f857}
+      \strng{authorbibnamehash}{c4a2d8cc54a09f1b6d5725ffaeb1f857}
+      \strng{authornamehash}{c4a2d8cc54a09f1b6d5725ffaeb1f857}
+      \strng{authorfullhash}{c4a2d8cc54a09f1b6d5725ffaeb1f857}
+      \field{sortinit}{L}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{title}{Homoptera, Cercopidae of Guam}
+      \field{year}{1942}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.5281/zenodo.5159714
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.5159714
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.5159714
+      \endverb
+    \endentry
+    \entry{light_s_f_1946_5160243}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=96c3b5792ed065bb8dbfc676c3797165}{%
+           family={Light},
+           familyi={L\bibinitperiod},
+           given={S.\bibnamedelimi F.},
+           giveni={S\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Bernice P. Bishop Museum}%
+      }
+      \strng{namehash}{96c3b5792ed065bb8dbfc676c3797165}
+      \strng{fullhash}{96c3b5792ed065bb8dbfc676c3797165}
+      \strng{bibnamehash}{96c3b5792ed065bb8dbfc676c3797165}
+      \strng{authorbibnamehash}{96c3b5792ed065bb8dbfc676c3797165}
+      \strng{authornamehash}{96c3b5792ed065bb8dbfc676c3797165}
+      \strng{authorfullhash}{96c3b5792ed065bb8dbfc676c3797165}
+      \field{sortinit}{L}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{Isoptera of Guam}
+      \field{year}{1946}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.5281/zenodo.5160243
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.5160243
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.5160243
+      \endverb
+    \endentry
+    \entry{mailoch_j_r_1942_5163626}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=f7b8bb03ee4b8ba48d8bea9a71247646}{%
+           family={Mailoch},
+           familyi={M\bibinitperiod},
+           given={J.\bibnamedelimi R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Bernice P. Bishop Museum}%
+      }
+      \strng{namehash}{f7b8bb03ee4b8ba48d8bea9a71247646}
+      \strng{fullhash}{f7b8bb03ee4b8ba48d8bea9a71247646}
+      \strng{bibnamehash}{f7b8bb03ee4b8ba48d8bea9a71247646}
+      \strng{authorbibnamehash}{f7b8bb03ee4b8ba48d8bea9a71247646}
+      \strng{authornamehash}{f7b8bb03ee4b8ba48d8bea9a71247646}
+      \strng{authorfullhash}{f7b8bb03ee4b8ba48d8bea9a71247646}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{title}{{Trypetidae, Otitidae, Helomyzidae, And Clusiidae of Guam (Diptera)}}
+      \field{year}{1942}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.5281/zenodo.5163626
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.5163626
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.5163626
+      \endverb
+    \endentry
+    \entry{metcalf_z_p_1946_5174008}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=90e4effa6ff0d656cc7a3b0c5a23c3a0}{%
+           family={Metcalf},
+           familyi={M\bibinitperiod},
+           given={Z.P.},
+           giveni={Z\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Bernice P. Bishop Museum Bulletin 189}%
+      }
+      \strng{namehash}{90e4effa6ff0d656cc7a3b0c5a23c3a0}
+      \strng{fullhash}{90e4effa6ff0d656cc7a3b0c5a23c3a0}
+      \strng{bibnamehash}{90e4effa6ff0d656cc7a3b0c5a23c3a0}
+      \strng{authorbibnamehash}{90e4effa6ff0d656cc7a3b0c5a23c3a0}
+      \strng{authornamehash}{90e4effa6ff0d656cc7a3b0c5a23c3a0}
+      \strng{authorfullhash}{90e4effa6ff0d656cc7a3b0c5a23c3a0}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{Homoptera, Fulgoroidea and Jassoidea of Guam}
+      \field{year}{1946}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.5281/zenodo.5174008
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.5174008
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.5174008
+      \endverb
+    \endentry
+    \entry{schedl_karl_e_1942_5160072}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=6983f7d72f19bec1faa32e1cd23178ba}{%
+           family={SchedL},
+           familyi={S\bibinitperiod},
+           given={Karl\bibnamedelima E.},
+           giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Bernice P. Bishop Museum}%
+      }
+      \strng{namehash}{6983f7d72f19bec1faa32e1cd23178ba}
+      \strng{fullhash}{6983f7d72f19bec1faa32e1cd23178ba}
+      \strng{bibnamehash}{6983f7d72f19bec1faa32e1cd23178ba}
+      \strng{authorbibnamehash}{6983f7d72f19bec1faa32e1cd23178ba}
+      \strng{authornamehash}{6983f7d72f19bec1faa32e1cd23178ba}
+      \strng{authorfullhash}{6983f7d72f19bec1faa32e1cd23178ba}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{title}{Barkbeetles of Guam}
+      \field{year}{1942}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.5281/zenodo.5160072
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.5160072
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.5160072
+      \endverb
+    \endentry
+    \entry{swezey_o_h_1942_5159809}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=bd54473d93e92325ee53c8d7bc76b7ce}{%
+           family={Swezey},
+           familyi={S\bibinitperiod},
+           given={O.\bibnamedelimi H.},
+           giveni={O\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Bernice P. Bishop Museum}%
+      }
+      \strng{namehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{fullhash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{bibnamehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{authorbibnamehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{authornamehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{authorfullhash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{title}{Aphididae and Aleurodidae Of Guam}
+      \field{year}{1942}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.5281/zenodo.5159809
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.5159809
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.5159809
+      \endverb
+    \endentry
+    \entry{swezey_o_h_1942_5173998}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=bd54473d93e92325ee53c8d7bc76b7ce}{%
+           family={Swezey},
+           familyi={S\bibinitperiod},
+           given={O.\bibnamedelimi H.},
+           giveni={O\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Bernice P. Bishop Museum}%
+      }
+      \strng{namehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{fullhash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{bibnamehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{authorbibnamehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{authornamehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{authorfullhash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{title}{Culicidae of Guam}
+      \field{year}{1942}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.5281/zenodo.5173998
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.5173998
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.5173998
+      \endverb
+    \endentry
+    \entry{swezey_o_h_1942_5160270}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=bd54473d93e92325ee53c8d7bc76b7ce}{%
+           family={Swezey},
+           familyi={S\bibinitperiod},
+           given={O.\bibnamedelimi H.},
+           giveni={O\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Bernice P. Bishop Museum}%
+      }
+      \strng{namehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{fullhash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{bibnamehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{authorbibnamehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{authornamehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{authorfullhash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \field{extraname}{3}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{title}{Hymenoptera Formicidae of Guam}
+      \field{year}{1942}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.5281/zenodo.5160270
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.5160270
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.5160270
+      \endverb
+    \endentry
+    \entry{swezey_o_h_1942_5165313}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=bd54473d93e92325ee53c8d7bc76b7ce}{%
+           family={Swezey},
+           familyi={S\bibinitperiod},
+           given={O.\bibnamedelimi H.},
+           giveni={O\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Bernice P. Bishop Museum Bulletin 189}%
+      }
+      \strng{namehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{fullhash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{bibnamehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{authorbibnamehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{authornamehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{authorfullhash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \field{extraname}{4}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{{Lepidoptera, Geometridae, Arctiidae, Agrotidae,and Pyralidae of Guam}}
+      \field{year}{1942}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.5281/zenodo.5165313
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.5165313
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.5165313
+      \endverb
+    \endentry
+    \entry{swezey_o_h_1942_5167701}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=bd54473d93e92325ee53c8d7bc76b7ce}{%
+           family={Swezey},
+           familyi={S\bibinitperiod},
+           given={O.\bibnamedelimi H.},
+           giveni={O\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Bernice P. Bishop Museum}%
+      }
+      \strng{namehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{fullhash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{bibnamehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{authorbibnamehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{authornamehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{authorfullhash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \field{extraname}{5}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{title}{Miscellaneous Families of Guam Coleoptera}
+      \field{year}{1942}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.5281/zenodo.5167701
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.5167701
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.5167701
+      \endverb
+    \endentry
+    \entry{swezey_o_h_1946_5164064}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=bd54473d93e92325ee53c8d7bc76b7ce}{%
+           family={Swezey},
+           familyi={S\bibinitperiod},
+           given={O.\bibnamedelimi H.},
+           giveni={O\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Bernice P. Bishop Museum}%
+      }
+      \strng{namehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{fullhash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{bibnamehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{authorbibnamehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{authornamehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{authorfullhash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \field{extraname}{6}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{Notes On Some Fulgoroidea Of Guam}
+      \field{year}{1946}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.5281/zenodo.5164064
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.5164064
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.5164064
+      \endverb
+    \endentry
+    \entry{swezey_o_h_1946_5173516}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=bd54473d93e92325ee53c8d7bc76b7ce}{%
+           family={Swezey},
+           familyi={S\bibinitperiod},
+           given={O.\bibnamedelimi H.},
+           giveni={O\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Bernice P. Bishop Museum}%
+      }
+      \strng{namehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{fullhash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{bibnamehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{authorbibnamehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{authornamehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{authorfullhash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \field{extraname}{7}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{Notes On Some Guam Chalcidoidea}
+      \field{year}{1946}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.5281/zenodo.5173516
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.5173516
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.5173516
+      \endverb
+    \endentry
+    \entry{swezey_o_h_1946_5160233}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=bd54473d93e92325ee53c8d7bc76b7ce}{%
+           family={Swezey},
+           familyi={S\bibinitperiod},
+           given={O.\bibnamedelimi H.},
+           giveni={O\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Bernice P. Bishop Museum}%
+      }
+      \strng{namehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{fullhash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{bibnamehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{authorbibnamehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{authornamehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{authorfullhash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \field{extraname}{8}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{{Orthoptera And Related Orders Orthoptera And Related Orders Of Guam}}
+      \field{year}{1946}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.5281/zenodo.5160233
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.5160233
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.5160233
+      \endverb
+    \endentry
+    \entry{o_h_swezey_1946_5127686}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=bd54473d93e92325ee53c8d7bc76b7ce}{%
+           family={Swezey},
+           familyi={S\bibinitperiod},
+           given={O.\bibnamedelimi H.},
+           giveni={O\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Bernice P. Bishop Museum}%
+      }
+      \strng{namehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{fullhash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{bibnamehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{authorbibnamehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{authornamehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{authorfullhash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \field{extraname}{9}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{SOME MISCELLANEOUS DIPTERA OF GUAM}
+      \field{year}{1946}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.5281/zenodo.5127686
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.5127686
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.5127686
+      \endverb
+    \endentry
+    \entry{swezey_o_h_1942_5160090}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=bd54473d93e92325ee53c8d7bc76b7ce}{%
+           family={Swezey},
+           familyi={S\bibinitperiod},
+           given={O.\bibnamedelimi H.},
+           giveni={O\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Bernice P. Bishop Museum}%
+      }
+      \strng{namehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{fullhash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{bibnamehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{authorbibnamehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{authornamehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{authorfullhash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \field{extraname}{10}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{title}{Strepsiptera of Guam}
+      \field{year}{1942}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.5281/zenodo.5160090
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.5160090
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.5160090
+      \endverb
+    \endentry
+    \entry{swezey_o_h_1942_5160297}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=bd54473d93e92325ee53c8d7bc76b7ce}{%
+           family={Swezey},
+           familyi={S\bibinitperiod},
+           given={O.\bibnamedelimi H.},
+           giveni={O\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Bernice P. Bishop Museum}%
+      }
+      \strng{namehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{fullhash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{bibnamehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{authorbibnamehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{authornamehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{authorfullhash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \field{extraname}{11}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{title}{Wasps of Guam}
+      \field{year}{1942}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.5281/zenodo.5160297
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.5160297
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.5160297
+      \endverb
+    \endentry
+    \entry{swezey_o_h_1942_5159515}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=810a42c390b4a31c7538103dfefba80b}{%
+           family={SWEZEY},
+           familyi={S\bibinitperiod},
+           given={O.\bibnamedelimi H.},
+           giveni={O\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=57185a31999d16127cf6742d45833bb8}{%
+           family={WILLIAMS},
+           familyi={W\bibinitperiod},
+           given={F.\bibnamedelimi X.},
+           giveni={F\bibinitperiod\bibinitdelim X\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Bernice P. Bishop Museum, Bulletin 172}%
+      }
+      \strng{namehash}{ec2f4e8b16459ab29eecce888910c296}
+      \strng{fullhash}{ec2f4e8b16459ab29eecce888910c296}
+      \strng{bibnamehash}{ec2f4e8b16459ab29eecce888910c296}
+      \strng{authorbibnamehash}{ec2f4e8b16459ab29eecce888910c296}
+      \strng{authornamehash}{ec2f4e8b16459ab29eecce888910c296}
+      \strng{authorfullhash}{ec2f4e8b16459ab29eecce888910c296}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{title}{ODONATA, DRAGONFLIES OF GUAM}
+      \field{year}{1942}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.5281/zenodo.5159515
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.5159515
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.5159515
+      \endverb
+    \endentry
+    \entry{swezey_o_h_1942_5160043}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=bd54473d93e92325ee53c8d7bc76b7ce}{%
+           family={Swezey},
+           familyi={S\bibinitperiod},
+           given={O.H.},
+           giveni={O\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Bernice P. Biship Museum}%
+      }
+      \strng{namehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{fullhash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{bibnamehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{authorbibnamehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{authornamehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{authorfullhash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \field{extraname}{12}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{title}{Lepidoptera, Butterflies of Guam}
+      \field{year}{1942}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.5281/zenodo.5160043
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.5160043
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.5160043
+      \endverb
+    \endentry
+    \entry{swezey_o_h_1942_5159743}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=bd54473d93e92325ee53c8d7bc76b7ce}{%
+           family={Swezey},
+           familyi={S\bibinitperiod},
+           given={O.H.},
+           giveni={O\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Bernice P, Bishop Museum}%
+      }
+      \strng{namehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{fullhash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{bibnamehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{authorbibnamehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{authornamehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{authorfullhash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \field{extraname}{13}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{title}{Membracidae of Guam}
+      \field{year}{1942}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.5281/zenodo.5159743
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.5159743
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.5159743
+      \endverb
+    \endentry
+    \entry{swezry_o_h_1942_5160080}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=2c21f089393835042f8819a741fd89ed}{%
+           family={Swezry},
+           familyi={S\bibinitperiod},
+           given={O.\bibnamedelimi H.},
+           giveni={O\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Bernice P. Bishop Museum}%
+      }
+      \strng{namehash}{2c21f089393835042f8819a741fd89ed}
+      \strng{fullhash}{2c21f089393835042f8819a741fd89ed}
+      \strng{bibnamehash}{2c21f089393835042f8819a741fd89ed}
+      \strng{authorbibnamehash}{2c21f089393835042f8819a741fd89ed}
+      \strng{authornamehash}{2c21f089393835042f8819a741fd89ed}
+      \strng{authorfullhash}{2c21f089393835042f8819a741fd89ed}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{title}{Sphingidae Of Guam}
+      \field{year}{1942}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.5281/zenodo.5160080
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.5160080
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.5160080
+      \endverb
+    \endentry
+    \entry{usinger_robert_l_1946_5173934}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=dc1fdabd520f79c2d57afaf14c919447}{%
+           family={Usinger},
+           familyi={U\bibinitperiod},
+           given={Robert\bibnamedelima L.},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Bernice P. Bishop Museum, Bulletin 189}%
+      }
+      \strng{namehash}{dc1fdabd520f79c2d57afaf14c919447}
+      \strng{fullhash}{dc1fdabd520f79c2d57afaf14c919447}
+      \strng{bibnamehash}{dc1fdabd520f79c2d57afaf14c919447}
+      \strng{authorbibnamehash}{dc1fdabd520f79c2d57afaf14c919447}
+      \strng{authornamehash}{dc1fdabd520f79c2d57afaf14c919447}
+      \strng{authorfullhash}{dc1fdabd520f79c2d57afaf14c919447}
+      \field{sortinit}{U}
+      \field{sortinithash}{77a6935510e008adcf5b555e7b4f0711}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{Hemiptera Heteroptera of Guam}
+      \field{year}{1946}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.5281/zenodo.5173934
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.5173934
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.5173934
+      \endverb
+    \endentry
+    \entry{van_zwaluwenburg_r_h_1942_5159555}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=bce857eae1191da5d965d90373ca920e}{%
+           family={Van\bibnamedelima Zwaluwenburg},
+           familyi={V\bibinitperiod\bibinitdelim Z\bibinitperiod},
+           given={R.\bibnamedelimi H.},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Bernice P. Bishop Museum}%
+      }
+      \strng{namehash}{bce857eae1191da5d965d90373ca920e}
+      \strng{fullhash}{bce857eae1191da5d965d90373ca920e}
+      \strng{bibnamehash}{bce857eae1191da5d965d90373ca920e}
+      \strng{authorbibnamehash}{bce857eae1191da5d965d90373ca920e}
+      \strng{authornamehash}{bce857eae1191da5d965d90373ca920e}
+      \strng{authorfullhash}{bce857eae1191da5d965d90373ca920e}
+      \field{sortinit}{V}
+      \field{sortinithash}{02432525618c08e2b03cac47c19764af}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{title}{Elaterid And Eucnemid Beetles Of Guam}
+      \field{year}{1942}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.5281/zenodo.5159555
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.5159555
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.5159555
+      \endverb
+    \endentry
+    \entry{zimmerman_elwood_c_1942_5159835}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=f68cb292c6c17e244e7ba65efa1f4f5f}{%
+           family={Zimmerman},
+           familyi={Z\bibinitperiod},
+           given={Elwood\bibnamedelima C.},
+           giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Bernice P. Bishop Museum}%
+      }
+      \strng{namehash}{f68cb292c6c17e244e7ba65efa1f4f5f}
+      \strng{fullhash}{f68cb292c6c17e244e7ba65efa1f4f5f}
+      \strng{bibnamehash}{f68cb292c6c17e244e7ba65efa1f4f5f}
+      \strng{authorbibnamehash}{f68cb292c6c17e244e7ba65efa1f4f5f}
+      \strng{authornamehash}{f68cb292c6c17e244e7ba65efa1f4f5f}
+      \strng{authorfullhash}{f68cb292c6c17e244e7ba65efa1f4f5f}
+      \field{extraname}{1}
+      \field{sortinit}{Z}
+      \field{sortinithash}{8f7b480688e809b50b6f6577b16f3db5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{title}{Anthribidae Of Guam}
+      \field{year}{1942}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.5281/zenodo.5159835
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.5159835
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.5159835
+      \endverb
+    \endentry
+    \entry{zimmerman_elwood_c_1942_5159455}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=f68cb292c6c17e244e7ba65efa1f4f5f}{%
+           family={Zimmerman},
+           familyi={Z\bibinitperiod},
+           given={Elwood\bibnamedelima C.},
+           giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Bernice P. Bishop Museum}%
+      }
+      \strng{namehash}{f68cb292c6c17e244e7ba65efa1f4f5f}
+      \strng{fullhash}{f68cb292c6c17e244e7ba65efa1f4f5f}
+      \strng{bibnamehash}{f68cb292c6c17e244e7ba65efa1f4f5f}
+      \strng{authorbibnamehash}{f68cb292c6c17e244e7ba65efa1f4f5f}
+      \strng{authornamehash}{f68cb292c6c17e244e7ba65efa1f4f5f}
+      \strng{authorfullhash}{f68cb292c6c17e244e7ba65efa1f4f5f}
+      \field{extraname}{2}
+      \field{sortinit}{Z}
+      \field{sortinithash}{8f7b480688e809b50b6f6577b16f3db5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{title}{Ciidae of Guam}
+      \field{year}{1942}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.5281/zenodo.5159455
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.5159455
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.5159455
+      \endverb
+    \endentry
+    \entry{zimmerman_elwood_c_1942_5159964}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=f68cb292c6c17e244e7ba65efa1f4f5f}{%
+           family={Zimmerman},
+           familyi={Z\bibinitperiod},
+           given={Elwood\bibnamedelima C.},
+           giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Bernice P. Bishop Museum}%
+      }
+      \strng{namehash}{f68cb292c6c17e244e7ba65efa1f4f5f}
+      \strng{fullhash}{f68cb292c6c17e244e7ba65efa1f4f5f}
+      \strng{bibnamehash}{f68cb292c6c17e244e7ba65efa1f4f5f}
+      \strng{authorbibnamehash}{f68cb292c6c17e244e7ba65efa1f4f5f}
+      \strng{authornamehash}{f68cb292c6c17e244e7ba65efa1f4f5f}
+      \strng{authorfullhash}{f68cb292c6c17e244e7ba65efa1f4f5f}
+      \field{extraname}{3}
+      \field{sortinit}{Z}
+      \field{sortinithash}{8f7b480688e809b50b6f6577b16f3db5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{title}{Curculionidae of Guam}
+      \field{year}{1942}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.5281/zenodo.5159964
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.5159964
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.5159964
+      \endverb
+    \endentry
+    \entry{zimmerman_elwood_c_1942_5159434}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=f68cb292c6c17e244e7ba65efa1f4f5f}{%
+           family={Zimmerman},
+           familyi={Z\bibinitperiod},
+           given={Elwood\bibnamedelima C.},
+           giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Bernice P. Bishop Museum}%
+      }
+      \strng{namehash}{f68cb292c6c17e244e7ba65efa1f4f5f}
+      \strng{fullhash}{f68cb292c6c17e244e7ba65efa1f4f5f}
+      \strng{bibnamehash}{f68cb292c6c17e244e7ba65efa1f4f5f}
+      \strng{authorbibnamehash}{f68cb292c6c17e244e7ba65efa1f4f5f}
+      \strng{authornamehash}{f68cb292c6c17e244e7ba65efa1f4f5f}
+      \strng{authorfullhash}{f68cb292c6c17e244e7ba65efa1f4f5f}
+      \field{extraname}{4}
+      \field{sortinit}{Z}
+      \field{sortinithash}{8f7b480688e809b50b6f6577b16f3db5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{title}{Rhipiceridae Of Guam}
+      \field{year}{1942}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.5281/zenodo.5159434
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.5159434
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.5159434
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
