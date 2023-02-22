@@ -2,19 +2,35 @@
 \babel@toc {english}{}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2}Data from the University of Guam Insect Collection}{4}{section.2}%
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1}Acknowledgments}{4}{subsection.2.1}%
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Data from Insects of Guam Publications}{5}{section.3}%
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1}Acknowledgments}{7}{subsection.3.1}%
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}Data from iNaturalist}{8}{section.4}%
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1}Acknowledgments}{8}{subsection.4.1}%
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5}Guam Biodiversity Information from the GBIF}{9}{section.5}%
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6}Guam Biodiversity Information from the GloBI}{13}{section.6}%
+\defcounter {refsection}{1}\relax 
+\contentsline {subsection}{\numberline {1.1}Why Guam Needs a Terrestrial Biodiversity Inventory}{3}{subsection.1.1}%
+\defcounter {refsection}{1}\relax 
+\contentsline {subsection}{\numberline {1.2}Design Considerations}{4}{subsection.1.2}%
+\defcounter {refsection}{1}\relax 
+\contentsline {subsection}{\numberline {1.3}References}{5}{subsection.1.3}%
+\defcounter {refsection}{1}\relax 
+\contentsline {section}{\numberline {2}Data from the University of Guam Insect Collection}{6}{section.2}%
+\defcounter {refsection}{1}\relax 
+\contentsline {paragraph}{\nonumberline Acknowledgment}{6}{section*.2}%
+\defcounter {refsection}{1}\relax 
+\contentsline {section}{\numberline {3}Data from Insects of Guam Publications}{7}{section.3}%
+\defcounter {refsection}{2}\relax 
+\contentsline {paragraph}{\nonumberline Zenodo article}{7}{section*.3}%
+\defcounter {refsection}{2}\relax 
+\contentsline {paragraph}{\nonumberline GBIF dataset}{7}{section*.4}%
+\defcounter {refsection}{2}\relax 
+\contentsline {paragraph}{\nonumberline Taxon treatments}{7}{section*.5}%
+\defcounter {refsection}{2}\relax 
+\contentsline {paragraph}{\nonumberline Acknowledgments}{8}{section*.6}%
+\defcounter {refsection}{2}\relax 
+\contentsline {subsection}{\numberline {3.1}References}{8}{subsection.3.1}%
+\defcounter {refsection}{2}\relax 
+\contentsline {subsection}{\numberline {3.2}Annotated Chapters from Insects of Guam I and II}{8}{subsection.3.2}%
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {4}Data from iNaturalist}{11}{section.4}%
+\defcounter {refsection}{3}\relax 
+\contentsline {paragraph}{\nonumberline Acknowledgments}{11}{section*.7}%
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {5}Guam Biodiversity Information from the GBIF}{12}{section.5}%
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {6}Guam Biodiversity Information from the GloBI}{16}{section.6}%

@@ -17,7 +17,191 @@
 \endgroup
 
 
-\refsection{0}
+\refsection{1}
+  \datalist[entry]{nty/global//global/global}
+    \entry{moore_building_2018}{unpublished}{}
+      \name{author}{1}{}{%
+        {{hash=01c4ab783bec4fb0e4fd912fc480dc75}{%
+           family={Moore},
+           familyi={M\bibinitperiod},
+           given={Aubrey},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{01c4ab783bec4fb0e4fd912fc480dc75}
+      \strng{fullhash}{01c4ab783bec4fb0e4fd912fc480dc75}
+      \strng{bibnamehash}{01c4ab783bec4fb0e4fd912fc480dc75}
+      \strng{authorbibnamehash}{01c4ab783bec4fb0e4fd912fc480dc75}
+      \strng{authornamehash}{01c4ab783bec4fb0e4fd912fc480dc75}
+      \strng{authorfullhash}{01c4ab783bec4fb0e4fd912fc480dc75}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{26}
+      \field{eventtitle}{Guam {{Island Sustainability Conference}}}
+      \field{month}{4}
+      \field{title}{Building a {{Terrestrial Biodiversity Inventory}} for {{Guam}}}
+      \field{venue}{{Tumon Bay, Guam}}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.6084/m9.figshare.6188315.v1
+      \endverb
+      \verb{file}
+      \verb /home/aubrey/snap/zotero-snap/common/Zotero/storage/7QFRJ63C/6188315.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://figshare.com/articles/Building_a_Terrestrial_Biodiversity_Inventory_for_Guam/6188315
+      \endverb
+      \verb{url}
+      \verb https://figshare.com/articles/Building_a_Terrestrial_Biodiversity_Inventory_for_Guam/6188315
+      \endverb
+      \keyw{biodiversity informatics,McIntire-Stennis final report 2019,Moore-presentations-after-2017,presentation2018,rlg}
+    \endentry
+    \entry{moore_building_2018-1}{unpublished}{}
+      \name{author}{1}{}{%
+        {{hash=01c4ab783bec4fb0e4fd912fc480dc75}{%
+           family={Moore},
+           familyi={M\bibinitperiod},
+           given={Aubrey},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{01c4ab783bec4fb0e4fd912fc480dc75}
+      \strng{fullhash}{01c4ab783bec4fb0e4fd912fc480dc75}
+      \strng{bibnamehash}{01c4ab783bec4fb0e4fd912fc480dc75}
+      \strng{authorbibnamehash}{01c4ab783bec4fb0e4fd912fc480dc75}
+      \strng{authornamehash}{01c4ab783bec4fb0e4fd912fc480dc75}
+      \strng{authorfullhash}{01c4ab783bec4fb0e4fd912fc480dc75}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eventtitle}{Second {{Annual Digital Data}} in {{Biodiversity Research Conference}}}
+      \field{title}{Building a {{Terrestrial Biodiversity Inventory}} for {{Guam}}}
+      \field{type}{oral presentation}
+      \field{venue}{{Berkeley, CA}}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.6084/m9.figshare.6188315.v1
+      \endverb
+      \verb{urlraw}
+      \verb https://figshare.com/articles/Building_a_Terrestrial_Biodiversity_Inventory_for_Guam/6188315
+      \endverb
+      \verb{url}
+      \verb https://figshare.com/articles/Building_a_Terrestrial_Biodiversity_Inventory_for_Guam/6188315
+      \endverb
+      \keyw{biodiversity informatics,McIntire-Stennis final report 2019,Moore-presentations-after-2017,presentation2018,rlg}
+    \endentry
+    \entry{moore_mcintire-stennis_2018}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=01c4ab783bec4fb0e4fd912fc480dc75}{%
+           family={Moore},
+           familyi={M\bibinitperiod},
+           given={Aubrey},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{01c4ab783bec4fb0e4fd912fc480dc75}
+      \strng{fullhash}{01c4ab783bec4fb0e4fd912fc480dc75}
+      \strng{bibnamehash}{01c4ab783bec4fb0e4fd912fc480dc75}
+      \strng{authorbibnamehash}{01c4ab783bec4fb0e4fd912fc480dc75}
+      \strng{authornamehash}{01c4ab783bec4fb0e4fd912fc480dc75}
+      \strng{authorfullhash}{01c4ab783bec4fb0e4fd912fc480dc75}
+      \field{extraname}{3}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{21}
+      \field{month}{6}
+      \field{title}{{{McIntire-Stennis Proposal}}: {{Guam Forest Biodiversity Inventory}}}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://github.com/aubreymoore/Miscellaneous-Docs-for-CFES2018/raw/master/ms_proposal_2018.pdf
+      \endverb
+      \verb{url}
+      \verb https://github.com/aubreymoore/Miscellaneous-Docs-for-CFES2018/raw/master/ms_proposal_2018.pdf
+      \endverb
+      \keyw{McIntire-Stennis final report 2019,miscellaneous2018,rlg}
+    \endentry
+  \enddatalist
+\endrefsection
+
+\refsection{2}
+  \datalist[entry]{nty/global//global/global}
+    \entry{swezey1942insects}{book}{}
+      \name{author}{1}{}{%
+        {{hash=bd54473d93e92325ee53c8d7bc76b7ce}{%
+           family={Swezey},
+           familyi={S\bibinitperiod},
+           given={O.\bibnamedelimi H.},
+           giveni={O\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Bernice P. Bishop Museum, Honolulu}%
+      }
+      \strng{namehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{fullhash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{bibnamehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{authorbibnamehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{authornamehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{authorfullhash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Insects of Guam I, Bulletin 172}
+      \field{year}{1942}
+      \field{pages}{218}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb http://hbs.bishopmuseum.org/pubs-online/pdf/bull172.pdf
+      \endverb
+      \verb{url}
+      \verb http://hbs.bishopmuseum.org/pubs-online/pdf/bull172.pdf
+      \endverb
+    \endentry
+    \entry{swezey1946insects}{book}{}
+      \name{author}{1}{}{%
+        {{hash=bd54473d93e92325ee53c8d7bc76b7ce}{%
+           family={Swezey},
+           familyi={S\bibinitperiod},
+           given={O.\bibnamedelimi H.},
+           giveni={O\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Bernice P. Bishop Museum, Honolulu}%
+      }
+      \strng{namehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{fullhash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{bibnamehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{authorbibnamehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{authornamehash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \strng{authorfullhash}{bd54473d93e92325ee53c8d7bc76b7ce}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Insects of Guam II, Bulletin 189}
+      \field{year}{1946}
+      \field{pages}{212}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb http://hbs.bishopmuseum.org/pubs-online/pdf/bull189.pdf
+      \endverb
+      \verb{url}
+      \verb http://hbs.bishopmuseum.org/pubs-online/pdf/bull189.pdf
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+
+\refsection{3}
   \datalist[entry]{nty/global//global/global}
     \entry{alexander_c_p_1942_5174000}{misc}{}
       \name{author}{1}{}{%
