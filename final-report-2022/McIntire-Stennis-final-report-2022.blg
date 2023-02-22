@@ -1,7 +1,7 @@
 [0] Config.pm:304> INFO - This is Biber 2.14 (beta)
 [0] Config.pm:307> INFO - Logfile is 'McIntire-Stennis-final-report-2022.blg'
-[49] biber:322> INFO - === Wed Feb 22, 2023, 15:47:04
-[58] Biber.pm:415> INFO - Reading 'McIntire-Stennis-final-report-2022.bcf'
+[49] biber:322> INFO - === Thu Feb 23, 2023, 07:14:29
+[59] Biber.pm:415> INFO - Reading 'McIntire-Stennis-final-report-2022.bcf'
 [103] Biber.pm:943> INFO - Found 0 citekeys in bib section 0
 [103] Biber.pm:943> INFO - Found 3 citekeys in bib section 1
 [103] Biber.pm:943> INFO - Found 0 citekeys in bib section 0
@@ -9,35 +9,45 @@
 [103] Biber.pm:943> INFO - Found 0 citekeys in bib section 0
 [103] Biber.pm:940> INFO - Using all citekeys in bib section 3
 [103] Biber.pm:943> INFO - Found 0 citekeys in bib section 0
-[122] Biber.pm:4256> INFO - Processing section 1
-[123] Utils.pm:75> INFO - Globbing data source 'my.bib'
-[123] Utils.pm:91> INFO - Globbed data source 'my.bib' to my.bib
-[129] Biber.pm:4455> INFO - Looking for bibtex format file 'my.bib' for section 1
-[130] bibtex.pm:1653> INFO - LaTeX decoding ...
-[134] bibtex.pm:1471> INFO - Found BibTeX data source 'my.bib'
-[159] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[159] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[159] Biber.pm:4084> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
-[159] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
-[163] Biber.pm:4256> INFO - Processing section 2
-[163] Utils.pm:75> INFO - Globbing data source 'my.bib'
-[163] Utils.pm:91> INFO - Globbed data source 'my.bib' to my.bib
-[163] Biber.pm:4455> INFO - Looking for bibtex format file 'my.bib' for section 2
-[172] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[172] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[173] Biber.pm:4084> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
-[173] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
-[174] Biber.pm:4256> INFO - Processing section 3
-[174] Utils.pm:75> INFO - Globbing data source 'blr.bib'
-[174] Utils.pm:91> INFO - Globbed data source 'blr.bib' to blr.bib
-[174] Biber.pm:4455> INFO - Looking for bibtex format file 'blr.bib' for section 3
-[175] bibtex.pm:1653> INFO - LaTeX decoding ...
-[198] bibtex.pm:1471> INFO - Found BibTeX data source 'blr.bib'
-[280] Utils.pm:293> WARN - BibTeX subsystem: /tmp/biber_tmp_ZjWA/blr.bib_392016.utf8, line 4, warning: 110 characters of junk seen at toplevel
-[311] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[104] Biber.pm:943> INFO - Found 1 citekeys in bib section 4
+[104] Biber.pm:943> INFO - Found 0 citekeys in bib section 0
+[126] Biber.pm:4256> INFO - Processing section 1
+[126] Utils.pm:75> INFO - Globbing data source 'my.bib'
+[126] Utils.pm:91> INFO - Globbed data source 'my.bib' to my.bib
+[133] Biber.pm:4455> INFO - Looking for bibtex format file 'my.bib' for section 1
+[134] bibtex.pm:1653> INFO - LaTeX decoding ...
+[139] bibtex.pm:1471> INFO - Found BibTeX data source 'my.bib'
+[163] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[163] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[163] Biber.pm:4084> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[163] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
+[167] Biber.pm:4256> INFO - Processing section 2
+[167] Utils.pm:75> INFO - Globbing data source 'my.bib'
+[167] Utils.pm:91> INFO - Globbed data source 'my.bib' to my.bib
+[167] Biber.pm:4455> INFO - Looking for bibtex format file 'my.bib' for section 2
+[176] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[176] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[176] Biber.pm:4084> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[176] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
+[178] Biber.pm:4256> INFO - Processing section 3
+[178] Utils.pm:75> INFO - Globbing data source 'blr.bib'
+[178] Utils.pm:91> INFO - Globbed data source 'blr.bib' to blr.bib
+[178] Biber.pm:4455> INFO - Looking for bibtex format file 'blr.bib' for section 3
+[179] bibtex.pm:1653> INFO - LaTeX decoding ...
+[201] bibtex.pm:1471> INFO - Found BibTeX data source 'blr.bib'
+[280] Utils.pm:293> WARN - BibTeX subsystem: /tmp/biber_tmp_DiTI/blr.bib_437838.utf8, line 4, warning: 110 characters of junk seen at toplevel
 [311] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[311] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
 [311] Biber.pm:4084> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
 [311] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
-[329] bbl.pm:652> INFO - Writing 'McIntire-Stennis-final-report-2022.bbl' with encoding 'UTF-8'
-[341] bbl.pm:755> INFO - Output to McIntire-Stennis-final-report-2022.bbl
-[341] Biber.pm:128> INFO - WARNINGS: 1
+[328] Biber.pm:4256> INFO - Processing section 4
+[328] Utils.pm:75> INFO - Globbing data source 'my.bib'
+[328] Utils.pm:91> INFO - Globbed data source 'my.bib' to my.bib
+[328] Biber.pm:4455> INFO - Looking for bibtex format file 'my.bib' for section 4
+[335] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[335] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[335] Biber.pm:4084> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[335] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
+[336] bbl.pm:652> INFO - Writing 'McIntire-Stennis-final-report-2022.bbl' with encoding 'UTF-8'
+[347] bbl.pm:755> INFO - Output to McIntire-Stennis-final-report-2022.bbl
+[347] Biber.pm:128> INFO - WARNINGS: 1

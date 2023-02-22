@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.9.13)  22 FEB 2023 18:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.9.13)  23 FEB 2023 09:27
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1311,69 +1311,93 @@ Package pdftex.def Info: images/diag1.pdf  used on input line 78.
                                                   \fi \fi 
 l.91 A
        biodiversity inventory for Guam is needed: <./images/diag1.pdf>]
+[4]
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
-19.
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+21.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-) [4]
-Overfull \hbox (10.21982pt too wide) in paragraph at lines 119--119
+)
+Overfull \hbox (10.21982pt too wide) in paragraph at lines 121--121
 []\T1/cmr/m/n/12 Moore, Aubrey. \T1/cmr/m/it/12 McIntire-Stennis Pro-posal: Gua
 m For-est Bio-di-ver-sity In-ven-tory\T1/cmr/m/n/12 . June 21,
  []
 
 
-Overfull \hbox (6.92374pt too wide) in paragraph at lines 119--119
+Overfull \hbox (6.92374pt too wide) in paragraph at lines 121--121
 \T1/cmr/m/n/12 2018. \T1/cmr/m/sc/12 url\T1/cmr/m/n/12 : [][]$\T1/cmtt/m/n/12 h
 ttps : / / github . com / aubreymoore / Miscellaneous -[] Docs -[] for -[] CFES
 2018 /
  []
 
 [5] [6]
-Package biblatex Info: Reference section=0 on input line 140.
+Package biblatex Info: Reference section=0 on input line 142.
 \blx@maxsegment@2=\count468
 \blx@sectionciteorder@2=\count469
-Package biblatex Info: Reference section=2 on input line 140.
-Package biblatex Info: Setting label 'refsection:2' on input line 140.
+Package biblatex Info: Reference section=2 on input line 142.
+Package biblatex Info: Setting label 'refsection:2' on input line 142.
 
-Overfull \hbox (17.05528pt too wide) in paragraph at lines 146--147
+Overfull \hbox (17.05528pt too wide) in paragraph at lines 148--149
 []\T1/cmr/m/n/12 Plazi did the ini-tial an-no-ta-tion of each chap-ter us-ing t
 heir open source soft-ware, GoldenGATE-
  []
 
 
-Overfull \hbox (109.22858pt too wide) in paragraph at lines 152--153
+Overfull \hbox (109.22858pt too wide) in paragraph at lines 154--155
 \T1/cmr/m/n/12 ments database. Check-list dataset [][]$\T1/cmtt/m/n/12 https : 
 / / www . gbif . org / dataset / 356a98ac-[]1526-[]4045-[]ae7f-[]52d08e753dfb$[
 ][] 
  []
 
 [7]
-Package biblatex Info: Reference section=0 on input line 175.
+Package biblatex Info: Reference section=0 on input line 177.
 \blx@maxsegment@3=\count470
 \blx@sectionciteorder@3=\count471
-Package biblatex Info: Reference section=3 on input line 175.
-Package biblatex Info: Setting label 'refsection:3' on input line 175.
+Package biblatex Info: Reference section=3 on input line 177.
+Package biblatex Info: Setting label 'refsection:3' on input line 177.
 
-Overfull \hbox (1.66443pt too wide) in paragraph at lines 177--177
+Overfull \hbox (1.66443pt too wide) in paragraph at lines 179--179
 []\T1/cmr/m/n/12 LALLEMAND, V. \T1/cmr/m/it/12 Ho-moptera, Cer-cop-i-dae of Gua
 m\T1/cmr/m/n/12 . June 1942. \T1/cmr/m/sc/12 doi\T1/cmr/m/n/12 : [][]$\T1/cmtt/
 m/n/12 10 . 5281 / zenodo .
  []
 
 [8] [9] [10] [11]
-<images/guam-insect-occurrence-records.png, id=507, 717.68124pt x 630.355pt>
+Package biblatex Info: Reference section=0 on input line 200.
+\blx@maxsegment@4=\count472
+\blx@sectionciteorder@4=\count473
+Package biblatex Info: Reference section=4 on input line 200.
+Package biblatex Info: Setting label 'refsection:4' on input line 200.
+<images/dataset-download.png, id=512, 892.33376pt x 903.375pt>
+File: images/dataset-download.png Graphic file (type png)
+<use images/dataset-download.png>
+Package pdftex.def Info: images/dataset-download.png  used on input line 220.
+(pdftex.def)             Requested size: 469.75502pt x 475.57472pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/guam-insect-occurrence-records.png, id=516, 717.68124pt x 630.355pt>
 File: images/guam-insect-occurrence-records.png Graphic file (type png)
 <use images/guam-insect-occurrence-records.png>
 Package pdftex.def Info: images/guam-insect-occurrence-records.png  used on inp
-ut line 202.
-(pdftex.def)             Requested size: 328.82707pt x 288.82222pt.
- [12pdfTeX warning (ext4): destination with the same identifier (name{figure.2}
-) has been already used, duplicate ignored
+ut line 230.
+(pdftex.def)             Requested size: 469.75502pt x 412.6018pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[12] [13pdfTeX warning (ext4): destination with the same identifier (name{figur
+e.2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.207 \clearpage
+l.235 \clearpage
+                 <./images/dataset-download.png>] [14pdfTeX warning (ext4): des
+tination with the same identifier (name{figure.3}) has been already used, dupli
+cate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.235 \clearpage
                  <./images/guam-insect-occurrence-records.png>] (./datasets.tex
 
 Overfull \hbox (37.69876pt too wide) in alignment at lines 1--5
@@ -1410,7 +1434,7 @@ Overfull \hbox (37.69876pt too wide) in alignment at lines 58--78
  [] [] [] [] 
  []
 
-[13
+[15
 
 ]
 Overfull \hbox (37.69876pt too wide) in alignment at lines 78--98
@@ -1422,12 +1446,12 @@ Overfull \hbox (37.69876pt too wide) in alignment at lines 98--109
  [] [] [] [] 
  []
 
-[14]) [15] [16]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 214.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 214.
+[16]) [17]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 242.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 242.
  (./McIntire-Stennis-final-report-2022.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 214.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 214.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 242.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 242.
 Package rerunfilecheck Info: File `McIntire-Stennis-final-report-2022.out' has 
 not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
@@ -1435,32 +1459,33 @@ Package logreq Info: Writing requests to 'McIntire-Stennis-final-report-2022.ru
 n.xml'.
 \openout1 = `McIntire-Stennis-final-report-2022.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 214.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 242.
  ) 
 Here is how much of TeX's memory you used:
- 34559 strings out of 483183
- 660852 string characters out of 5966292
- 1409858 words of memory out of 5000000
- 48930 multiletter control sequences out of 15000+600000
- 543689 words of font info for 48 fonts, out of 8000000 for 9000
+ 34590 strings out of 483183
+ 661629 string characters out of 5966292
+ 1410138 words of memory out of 5000000
+ 48956 multiletter control sequences out of 15000+600000
+ 544465 words of font info for 49 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  73i,8n,90p,10129b,1845s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1200.60
-0pk> </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/eccc1200.
-600pk> </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm120
-0.600pk> </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1
-200.600pk> </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecs
-x1440.600pk> </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/e
-csx1200.600pk> </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec
-/ecsx1728.600pk> </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/
-ec/ecrm1728.600pk> </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour/jknappe
-n/ec/ecsx2488.600pk> </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour/jknap
-pen/ec/ecrm1200.600pk>
-Output written on McIntire-Stennis-final-report-2022.pdf (16 pages, 498009 byte
+ </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.60
+0pk> </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1200.
+600pk> </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/eccc120
+0.600pk> </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1
+200.600pk> </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ect
+i1200.600pk> </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/e
+csx1440.600pk> </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec
+/ecsx1200.600pk> </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/
+ec/ecsx1728.600pk> </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour/jknappe
+n/ec/ecrm1728.600pk> </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour/jknap
+pen/ec/ecsx2488.600pk> </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour/jkn
+appen/ec/ecrm1200.600pk>
+Output written on McIntire-Stennis-final-report-2022.pdf (17 pages, 566319 byte
 s).
 PDF statistics:
- 1062 PDF objects out of 1200 (max. 8388607)
- 659 compressed objects within 7 object streams
- 81 named destinations out of 1000 (max. 500000)
- 111 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1119 PDF objects out of 1200 (max. 8388607)
+ 676 compressed objects within 7 object streams
+ 84 named destinations out of 1000 (max. 500000)
+ 116 words of extra memory for PDF output out of 10000 (max. 10000000)
 

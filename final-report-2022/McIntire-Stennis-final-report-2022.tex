@@ -108,11 +108,13 @@ The inventory will facilitate automatic generation and updates to lists such as:
 	\item Taxonomic checklists and field guides with images
 \end{itemize}
 
+I used the methods described in this report to access biodiversity information for insects on Guam. These same methods can be used for other taxonomic groups and locations.
+
 \subsection{Design Considerations}
 
 Data for biodiversity inventories are commonly extracted from labels attached to specimens in biological collections and occurrence records in the scientific literature. In recent years, biodiversity data have become available via online sources such as \href{https://inaturalist.org}{iNaturalist}, a citizen science social networking site where users record images and data from biological observations, and the \href{https://v3.boldsystems.org/}{Barcode of Life Data System (BOLD)}, a repository for DNA barcoding sequences.
 
-Instead of building, maintaining and hosting a custom online database for the Guam Terrestrial Biodiversity Inventory, I decided to use GBIF as the online database and then build a set of custom queries to access Guam specific data. This design simplified the work tremendously. The major task for this project was to automate importation of Guam data into GBIF (Fig. \ref{fig:diag1}). Development of taxonomic data standards, especially the \href{https://www.gbif.org/darwin-core}{Darwin Core Archive} data format, have made it relatively easy to develop automated workflows for sharing biodiversity data among different systems. In the following sections I will describe methods used to push Guam data from biological collections, scientific literature and iNaturalist to GBIF.
+Instead of building, maintaining and hosting a custom online database for the Guam Terrestrial Biodiversity Inventory, I decided to use GBIF as the online database and then build a set of custom tools to access Guam specific data. This design simplified the work tremendously. The major task for this project was to automate importation of Guam data into GBIF (Fig. \ref{fig:diag1}). Development of taxonomic data standards, especially the \href{https://www.gbif.org/darwin-core}{Darwin Core Archive} data format, have made it relatively easy to develop automated workflows for sharing biodiversity data among different systems. In the following sections I will describe methods used to push Guam data from biological collections, scientific literature and iNaturalist to GBIF.
 
 \subsection{References}
 
@@ -125,9 +127,9 @@ Instead of building, maintaining and hosting a custom online database for the Gu
 \pagebreak
 \section{Data from the University of Guam Insect Collection}
 
-The University of Guam Insect Collection maintains an \href{https://scan-bugs.org/portal/collections/misc/collprofiles.php?collid=180}{online catalog} of label data for all 35,000 pinned specimens. This catalog is part of the \href{https://scan-bugs.org/portal/}{Symbiota Collections of Arthropods Network (SCAN)}. 
+The University of Guam Insect Collection maintains an \href{https://scan-bugs.org/portal/collections/misc/collprofiles.php?collid=180}{online catalog} of label data for all 35,000 pinned specimens. This catalog is part of the \href{https://scan-bugs.org/portal/}{Symbiota Collections of Arthropods Network (SCAN)}. SCAN has been configured to automatically push data from the UOG insect collection to GBIF.
 
-SCAN has been configured to automatically push data from the UOG insect collection to GBIF.
+Note that biodiversity data extracted from the UOG insect collection database is extremely biased because soft bodied and minute insects preserved in liquid or on microscope slides are not included in the catalog. In many cases, occurrence records for these insects are currently available only from the scientific literature. In addition, only 21\% of specimens in this collection are identified to species.
 
 \paragraph{Acknowledgment} Thanks to Neil S. Cobb, Northern Arizona University, for help with SCAN and for setting up automatic publishing of data to GBIF.
 
@@ -143,7 +145,7 @@ As a first attempt to extract biodiversity data from the scientific literature, 
 
 For this part of the project, we collaborated with \href{https://en.wikipedia.org/wiki/Plazi}{Plazi}, a Swiss-based international non-profit association supporting and promoting the development of persistent and openly accessible digital bio-taxonomic literature. We work closely with data scientists at the Plazi office in Brazil: Marcus Guidoti, Carolina Sokolowicz, and Tatiana Ruschel. They provided online training, specialized software, server access, and technical support.
 
-Plazi did the initial annotation of each chapter using their open source software, GoldenGATE-Imagine (GGI). Final annotation, using GGI, was performed by myself and Annette Kang, a PhD student from Guam studying entomology at Cornell University.
+Plazi did the initial annotation of each chapter using their open source software, GoldenGATE-Imagine (GGI). Final annotation, using GGI to parse material citations, was performed by myself and Annette Kang, a PhD student from Guam studying entomology at Cornell University.
 
 For each chapter we annotated, the Plazi workflow created a journal article published in Zenodo. This is essentially a republished copy of the original chapter with links to files containing extracted data. Links are provided for a GBIF checklist dataset which may be downloaded in several formats including Darwin core archive (DwCA). In addition, a dataset for each taxon within the chapter is created and stored in the Plazi Treatment Bank. For example, here are the publicly accessible online data products which automatically appeared on the web after we annotated the Bees of Guam chapter and uploaded it back to the GoldenGATE server:
 
@@ -151,20 +153,20 @@ For each chapter we annotated, the Plazi workflow created a journal article publ
 
 \paragraph{GBIF dataset} Cockerell T D A, carolina (1942). Bees of Guam. Plazi.org taxonomic treatments database. Checklist dataset \url{https://www.gbif.org/dataset/356a98ac-1526-4045-ae7f-52d08e753dfb} 
 
-This dataset can be downloaded in several formats including Darwin core archive. Note that information within this dataset will be accessed whenever GBIF is queried.
+This dataset can be downloaded in several formats including Darwin core archive.
 
 \paragraph{Taxon treatments} A page is available for each of the 7 taxa which appear in the chapter:
 
 \medskip
-Cockerell, T. D. A. (1942). Apis mellifera Linnaeus. In Bees of Guam, pp. 188-190 in Insects of Guam I (p. 188). Bernice P. Bishop Museum. \url{https://doi.org/10.5281/zenodo.5211876}
+Cockerell, T. D. A. (1942). \textit{Apis mellifera} Linnaeus. In Bees of Guam, pp. 188-190 in Insects of Guam I (p. 188). Bernice P. Bishop Museum. \url{https://doi.org/10.5281/zenodo.5211876}
 
 \medskip
-Cockerell, T. D. A. (1942). Megachile laticeps Smith. In Bees of Guam, pp. 188-190 in Insects of Guam I (p. 188). Bernice P. Bishop Museum. \url{https://doi.org/10.5281/zenodo.5164364}
+Cockerell, T. D. A. (1942). \textit{Megachile laticeps} Smith. In Bees of Guam, pp. 188-190 in Insects of Guam I (p. 188). Bernice P. Bishop Museum. \url{https://doi.org/10.5281/zenodo.5164364}
 
 \medskip
 And so on for the 5 other species in this chapter.
 
-\paragraph{Acknowledgments} Neil, Donat
+\paragraph{Acknowledgments} Thanks to Neal Evenhuis at the Bernice P. Bishop Museum for putting PDFs of \textit{Insects of Guam I and II} on the web, to Plazi for collaboration, especially Donat Agosti in Switzerland and Marcus Guidoti, Carolina Sokolowicz, and Tatiana Ruschel in Brazil, and to Annette Kang, Cornell University, who did most of the final annotation.
 
 \subsection{References}
 \printbibliography[heading=none]
@@ -183,9 +185,9 @@ And so on for the 5 other species in this chapter.
 
 iNaturalist observations classified as \textit{Research Grade} are automatically added to a \href{https://www.gbif.org/dataset/50c9509d-22c7-4a22-a47d-8c48425ef4a7}{iNaturalist Research-grade Observations GBIF dataset}. This dataset currently includes 57 million occurrence records. 
 
-iNaturalist observations become candidates for \textit{Research Grade} when they have a photo, date, and coordinates. They become "Research Grade" when the community agrees on an identification. If the community has multiple opinions on what taxon has been observed, iNaturalist chooses a taxon from all the proposed taxa (a higher-level taxon containing the proposed taxa) that more than two-thirds of the voters agree with.
+iNaturalist observations become candidates for \textit{Research Grade} when they have a photo, date, and coordinates. They become \textit{Research Grade} when the community agrees on an identification. If the community has multiple opinions on what taxon has been observed, iNaturalist chooses a taxon from all the proposed taxa (a higher-level taxon containing the proposed taxa) that more than two-thirds of the voters agree with.
 
-I have been using iNaturalist for years as a tool to document observations made during my work as an extension entomologist. Several of my observations are first island records for invasive species. I also use iNaturalist as a teaching tool. Students in my entomology courses are encouraged to use iNaturalist to catalog their insect collections. Many iNaturalist observations of insects on Guam are added to the \href{https://www.inaturalist.org/projects/insects-of-micronesia}{iNaturalist Insects of Micronesia Project}. This project currently includes 3605 observations of 438 species made by 154 people. 
+I have been using iNaturalist for years as a tool to document observations made during my work as an extension entomologist. Several of my observations document the first observations of invasive species on Guam. I also use iNaturalist as a teaching tool. Students in my entomology courses are encouraged to use iNaturalist to catalog their insect collections. Many iNaturalist observations of insects on Guam are added to the \href{https://www.inaturalist.org/projects/insects-of-micronesia}{iNaturalist Insects of Micronesia Project}. This project currently includes 3605 observations of 438 species made by 154 people. 
 
 \paragraph{Acknowledgments} Thanks to Ken Puliafico and others for observations and identifications contributed to the \textit{Insects of Micronesia iNaturalist Project}.
 
@@ -194,12 +196,38 @@ I have been using iNaturalist for years as a tool to document observations made 
 
 
 \pagebreak
-\section{Guam Biodiversity Information from the GBIF}
+\section{Accessing Guam Biodiversity Information from GBIF}
+\newrefsection[my.bib]
+
+Much of the time, Guam biodiversity data on GBIF can be accessed directly using the online search interface. For instance, to see a list of all insect occurrences for Guam, one simple opens the clicks on \textbf{Occurrences}, selects \textbf{Scientific name: Insecta} and \textbf{Country or Area: Guam}. The result of this search will be displayed in a large table containing a limited set of fields (currently about 23,000 records). For detailed analysis one can download the data specified for the current search by simply pressing the \textbf{Download} button. GBIF builds a custom dataset in one of three formats: \textbf{Simple}, \textbf{Darwin Core Archive}, and \textbf{Species List}. The custom dataset is stored on the GBIF server, is given a citable digital object identifier (DOI), and can be downloaded by anyone who visits the dataset download page \cite{https://doi.org/10.15468/dl.yztrkr} (Fig. \ref*{fig:dataset-download}).
+
+\url{https://www.gbif.org/species/4995642}
+
+\subsection{References}
+\printbibliography[heading=none]
+
+
+
+
+
+
+
+
 
 % TODO: \usepackage{graphicx} required
-\begin{figure}[H]
+\begin{figure}[h]
 	\centering
-	\includegraphics[width=.7\linewidth]{images/guam-insect-occurrence-records}
+	\includegraphics[width=\linewidth]{images/dataset-download}
+	\caption{Screenshot of the GBIF dataset download page (\url{https://doi.org/10.15468/dl.yztrkr}).}
+	\label{fig:dataset-download}
+\end{figure}
+
+
+
+% TODO: \usepackage{graphicx} required
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=\linewidth]{images/guam-insect-occurrence-records}
 	\caption{caption}
 	\label{fig:guam-insect-occurrence-records}
 \end{figure}
@@ -208,7 +236,7 @@ I have been using iNaturalist for years as a tool to document observations made 
 
 \input{datasets.tex}
 
-\pagebreak
-\section{Guam Biodiversity Information from the GloBI}
+%\pagebreak
+%\section{Guam Biodiversity Information from GloBI}
 
 \end{document}

@@ -1560,5 +1560,42 @@
     \endentry
   \enddatalist
 \endrefsection
+
+\refsection{4}
+  \datalist[entry]{nty/global//global/global}
+    \entry{https://doi.org/10.15468/dl.yztrkr}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=784c8b6f973639e907c6a83e821c9309}{%
+           family={{GBIF.Org User}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The Global Biodiversity Information Facility}%
+      }
+      \strng{namehash}{784c8b6f973639e907c6a83e821c9309}
+      \strng{fullhash}{784c8b6f973639e907c6a83e821c9309}
+      \strng{bibnamehash}{784c8b6f973639e907c6a83e821c9309}
+      \strng{authorbibnamehash}{784c8b6f973639e907c6a83e821c9309}
+      \strng{authornamehash}{784c8b6f973639e907c6a83e821c9309}
+      \strng{authorfullhash}{784c8b6f973639e907c6a83e821c9309}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Occurrence Download}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.15468/DL.YZTRKR
+      \endverb
+      \verb{urlraw}
+      \verb https://www.gbif.org/occurrence/download/0263016-220831081235567
+      \endverb
+      \verb{url}
+      \verb https://www.gbif.org/occurrence/download/0263016-220831081235567
+      \endverb
+      \keyw{GBIF,biodiversity,species occurrences}
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 
