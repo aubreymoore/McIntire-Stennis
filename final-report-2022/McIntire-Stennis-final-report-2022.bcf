@@ -2223,6 +2223,8 @@
   </bcf:bibdata>
   <bcf:section number="4">
     <bcf:citekey order="1">https://doi.org/10.15468/dl.yztrkr</bcf:citekey>
+    <bcf:citekey order="2">taxonview-ipynb</bcf:citekey>
+    <bcf:citekey order="3">taxonview-page</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">

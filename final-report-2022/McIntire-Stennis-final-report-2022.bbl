@@ -1595,6 +1595,62 @@
       \endverb
       \keyw{GBIF,biodiversity,species occurrences}
     \endentry
+    \entry{taxonview-ipynb}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=01c4ab783bec4fb0e4fd912fc480dc75}{%
+           family={Moore},
+           familyi={M\bibinitperiod},
+           given={Aubrey},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{01c4ab783bec4fb0e4fd912fc480dc75}
+      \strng{fullhash}{01c4ab783bec4fb0e4fd912fc480dc75}
+      \strng{bibnamehash}{01c4ab783bec4fb0e4fd912fc480dc75}
+      \strng{authorbibnamehash}{01c4ab783bec4fb0e4fd912fc480dc75}
+      \strng{authornamehash}{01c4ab783bec4fb0e4fd912fc480dc75}
+      \strng{authorfullhash}{01c4ab783bec4fb0e4fd912fc480dc75}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Jupyter notebook which generates a static webpage containing an interactive taxonomic tree showing Guam taxa recorded in GBIF}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://github.com/aubreymoore/Guam-insect-list/blob/main/Guam_insects_GBIF.ipynb
+      \endverb
+      \verb{url}
+      \verb https://github.com/aubreymoore/Guam-insect-list/blob/main/Guam_insects_GBIF.ipynb
+      \endverb
+    \endentry
+    \entry{taxonview-page}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=01c4ab783bec4fb0e4fd912fc480dc75}{%
+           family={Moore},
+           familyi={M\bibinitperiod},
+           given={Aubrey},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{01c4ab783bec4fb0e4fd912fc480dc75}
+      \strng{fullhash}{01c4ab783bec4fb0e4fd912fc480dc75}
+      \strng{bibnamehash}{01c4ab783bec4fb0e4fd912fc480dc75}
+      \strng{authorbibnamehash}{01c4ab783bec4fb0e4fd912fc480dc75}
+      \strng{authornamehash}{01c4ab783bec4fb0e4fd912fc480dc75}
+      \strng{authorfullhash}{01c4ab783bec4fb0e4fd912fc480dc75}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A static webpage containing an interactive taxonomic tree showing Guam taxa recorded in GBIF}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://aubreymoore.github.io/Guam-insect-list/
+      \endverb
+      \verb{url}
+      \verb https://aubreymoore.github.io/Guam-insect-list/
+      \endverb
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

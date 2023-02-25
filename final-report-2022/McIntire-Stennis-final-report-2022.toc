@@ -9,11 +9,11 @@
 \defcounter {refsection}{1}\relax 
 \contentsline {subsection}{\numberline {1.3}References}{5}{subsection.1.3}%
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {2}Data from the University of Guam Insect Collection}{6}{section.2}%
+\contentsline {section}{\numberline {2}Extracting Data from the University of Guam Insect Collection}{6}{section.2}%
 \defcounter {refsection}{1}\relax 
 \contentsline {paragraph}{\nonumberline Acknowledgment}{6}{section*.2}%
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {3}Data from Insects of Guam Publications}{7}{section.3}%
+\contentsline {section}{\numberline {3}Extracting Data from Insects of Guam Publications}{7}{section.3}%
 \defcounter {refsection}{2}\relax 
 \contentsline {paragraph}{\nonumberline Zenodo article}{7}{section*.3}%
 \defcounter {refsection}{2}\relax 
@@ -27,10 +27,12 @@
 \defcounter {refsection}{2}\relax 
 \contentsline {subsection}{\numberline {3.2}Annotated Chapters from Insects of Guam I and II}{8}{subsection.3.2}%
 \defcounter {refsection}{3}\relax 
-\contentsline {section}{\numberline {4}Data from iNaturalist}{11}{section.4}%
+\contentsline {section}{\numberline {4}Extracting Data from iNaturalist}{11}{section.4}%
 \defcounter {refsection}{3}\relax 
 \contentsline {paragraph}{\nonumberline Acknowledgments}{11}{section*.7}%
 \defcounter {refsection}{3}\relax 
 \contentsline {section}{\numberline {5}Accessing Guam Biodiversity Information from GBIF}{12}{section.5}%
 \defcounter {refsection}{4}\relax 
 \contentsline {subsection}{\numberline {5.1}References}{12}{subsection.5.1}%
+\defcounter {refsection}{4}\relax 
+\contentsline {section}{\numberline {6}Concluding Remarks}{19}{section.6}%

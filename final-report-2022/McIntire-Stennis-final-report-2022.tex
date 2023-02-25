@@ -54,7 +54,7 @@ breaklinks=true,pdfborder={0 0 0},pdfborderstyle={},backref=false,colorlinks=tru
 
 \begin{document}
 
-\titlehead{Final Report: McIntire-Stennis Project XXXX}
+\titlehead{Final Report: McIntire-Stennis Project GU0930}
 
 \title{Building a Terrestrial Biodiversity Inventory for Guam}
 
@@ -125,20 +125,20 @@ Instead of building, maintaining and hosting a custom online database for the Gu
 
 
 \pagebreak
-\section{Data from the University of Guam Insect Collection}
+\section{Extracting Data from the University of Guam Insect Collection}
 
 The University of Guam Insect Collection maintains an \href{https://scan-bugs.org/portal/collections/misc/collprofiles.php?collid=180}{online catalog} of label data for all 35,000 pinned specimens. This catalog is part of the \href{https://scan-bugs.org/portal/}{Symbiota Collections of Arthropods Network (SCAN)}. SCAN has been configured to automatically push data from the UOG insect collection to GBIF.
 
 Note that biodiversity data extracted from the UOG insect collection database is extremely biased because soft bodied and minute insects preserved in liquid or on microscope slides are not included in the catalog. In many cases, occurrence records for these insects are currently available only from the scientific literature. In addition, only 21\% of specimens in this collection are identified to species.
 
-\paragraph{Acknowledgment} Thanks to Neil S. Cobb, Northern Arizona University, for help with SCAN and for setting up automatic publishing of data to GBIF.
+\paragraph{Acknowledgment} Thanks to Peggy Denney and Laura Barnes for digitizing label data and to Neil S. Cobb, Northern Arizona University, for help with SCAN and for setting up automatic publishing of data to GBIF.
 
 
 
 
 
 \pagebreak
-\section{Data from Insects of Guam Publications}
+\section{Extracting Data from Insects of Guam Publications}
 \newrefsection[my.bib]
 
 As a first attempt to extract biodiversity data from the scientific literature, we chose to datamine 38 chapters included in Insects of Guam I and II published by the Bishop Museum \cite{swezey1942insects, swezey1946insects}. These volumes document insects collected on Guam during a comprehensive entomological survey done in 1936 by O. H.Swezey from the Hawaii Sugar Planters' Association. Chapters from both books are \href{http://hbs.bishopmuseum.org/pubs-online/bpbm-bulletins.html}{available online as PDFs}.
@@ -181,7 +181,7 @@ And so on for the 5 other species in this chapter.
 
 
 \pagebreak
-\section{Data from iNaturalist}
+\section{Extracting Data from iNaturalist}
 
 iNaturalist observations classified as \textit{Research Grade} are automatically added to a \href{https://www.gbif.org/dataset/50c9509d-22c7-4a22-a47d-8c48425ef4a7}{iNaturalist Research-grade Observations GBIF dataset}. This dataset currently includes 57 million occurrence records. 
 
@@ -199,26 +199,19 @@ I have been using iNaturalist for years as a tool to document observations made 
 \section{Accessing Guam Biodiversity Information from GBIF}
 \newrefsection[my.bib]
 
-Much of the time, Guam biodiversity data on GBIF can be accessed directly using the online search interface. For instance, to see a list of all insect occurrences for Guam, one simple opens the clicks on \textbf{Occurrences}, selects \textbf{Scientific name: Insecta} and \textbf{Country or Area: Guam}. The result of this search will be displayed in a large table containing a limited set of fields (currently about 23,000 records). For detailed analysis one can download the data specified for the current search by simply pressing the \textbf{Download} button. GBIF builds a custom dataset in one of three formats: \textbf{Simple}, \textbf{Darwin Core Archive}, and \textbf{Species List}. The custom dataset is stored on the GBIF server, is given a citable digital object identifier (DOI), and can be downloaded by anyone who visits the dataset download page \cite{https://doi.org/10.15468/dl.yztrkr} (Fig. \ref*{fig:dataset-download}).
+Much of the time, Guam biodiversity data on GBIF can be accessed directly using the online search interface. For instance, to see a list of all insect occurrences for Guam, one simple opens the clicks on \textbf{Occurrences}, selects \textbf{Scientific name: Insecta} and \textbf{Country or Area: Guam}. The result of this search will be displayed in a large table containing a limited set of fields (currently about 23,000 records). For detailed analysis one can download the data specified for the current search by simply pressing the \textbf{Download} button. GBIF builds a custom dataset in one of three formats: \textbf{Simple}, \textbf{Darwin Core Archive}, and \textbf{Species List}. The custom dataset is stored on the GBIF server, is given a citable digital object identifier (DOI), and can be downloaded by anyone who visits the dataset download page \cite{https://doi.org/10.15468/dl.yztrkr} (Fig. \ref{fig:dataset-download}).
 
-\url{https://www.gbif.org/species/4995642}
+For detailed analysis and construction of custom data products, the Darwin core archive (DwCA) can be downloaded and used locally. For example, I used a Jupyter notebook \cite{taxonview-ipynb} to generate an interactive taxonomic tree containing scientific names for all insect taxa with GBIF occurrence records from Guam (Fig. \ref{fig:guam-insect-occurrence-records}). This taxonomic tree is publicly available as a static web page hosted on GitHub \cite{taxonview-page}. It can be used on any devices with a web browser, including smart phones.
+
 
 \subsection{References}
 \printbibliography[heading=none]
-
-
-
-
-
-
-
-
 
 % TODO: \usepackage{graphicx} required
 \begin{figure}[h]
 	\centering
 	\includegraphics[width=\linewidth]{images/dataset-download}
-	\caption{Screenshot of the GBIF dataset download page (\url{https://doi.org/10.15468/dl.yztrkr}).}
+	\caption{Screenshot of a GBIF dataset download page (\url{https://doi.org/10.15468/dl.yztrkr}).}
 	\label{fig:dataset-download}
 \end{figure}
 
@@ -228,7 +221,7 @@ Much of the time, Guam biodiversity data on GBIF can be accessed directly using 
 \begin{figure}[h]
 	\centering
 	\includegraphics[width=\linewidth]{images/guam-insect-occurrence-records}
-	\caption{caption}
+	\caption{Screenshot of an interactive list of scientific names for insects included in GBIF occurrence records for Guam.}
 	\label{fig:guam-insect-occurrence-records}
 \end{figure}
 
@@ -236,7 +229,7 @@ Much of the time, Guam biodiversity data on GBIF can be accessed directly using 
 
 \input{datasets.tex}
 
-%\pagebreak
-%\section{Guam Biodiversity Information from GloBI}
+\pagebreak
+\section{Concluding Remarks}
 
 \end{document}
