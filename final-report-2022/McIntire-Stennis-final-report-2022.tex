@@ -61,7 +61,7 @@ breaklinks=true,pdfborder={0 0 0},pdfborderstyle={},backref=false,colorlinks=tru
 \author{Aubrey Moore PhD}
 
 \maketitle
-%\footnote{\url{https://github.com/aubreymoore/2020-FS-CRB-biocontrol-project/blob/master/combined-proposal.pdf}}
+\footnote{\url{https://github.com/aubreymoore/McIntire-Stennis/raw/master/final-report-2022/McIntire-Stennis-final-report-2022.pdf}}
 \newpage
 \tableofcontents
 
@@ -115,6 +115,8 @@ I used the methods described in this report to access biodiversity information f
 Data for biodiversity inventories are commonly extracted from labels attached to specimens in biological collections and occurrence records in the scientific literature. In recent years, biodiversity data have become available via online sources such as \href{https://inaturalist.org}{iNaturalist}, a citizen science social networking site where users record images and data from biological observations, and the \href{https://v3.boldsystems.org/}{Barcode of Life Data System (BOLD)}, a repository for DNA barcoding sequences.
 
 Instead of building, maintaining and hosting a custom online database for the Guam Terrestrial Biodiversity Inventory, I decided to use GBIF as the online database and then build a set of custom tools to access Guam specific data. This design simplified the work tremendously. The major task for this project was to automate importation of Guam data into GBIF (Fig. \ref{fig:diag1}). Development of taxonomic data standards, especially the \href{https://www.gbif.org/darwin-core}{Darwin Core Archive} data format, have made it relatively easy to develop automated workflows for sharing biodiversity data among different systems. In the following sections I will describe methods used to push Guam data from biological collections, scientific literature and iNaturalist to GBIF.
+
+I used free, open source software (FOSS) for this project. All code and documentation is stored in public GitHub repositories \cite{gh-McIntire-Stennis,gh-datamining-insect-of-guam,gh-guam-insect-list}. 
 
 \subsection{References}
 
@@ -196,7 +198,7 @@ I have been using iNaturalist for years as a tool to document observations made 
 
 
 \pagebreak
-\section{Accessing Guam Biodiversity Information from GBIF}
+\section{Accessing Guam Biodiversity Information Stored in GBIF}
 \newrefsection[my.bib]
 
 Much of the time, Guam biodiversity data on GBIF can be accessed directly using the online search interface. For instance, to see a list of all insect occurrences for Guam, one simple opens the clicks on \textbf{Occurrences}, selects \textbf{Scientific name: Insecta} and \textbf{Country or Area: Guam}. The result of this search will be displayed in a large table containing a limited set of fields (currently about 23,000 records). For detailed analysis one can download the data specified for the current search by simply pressing the \textbf{Download} button. GBIF builds a custom dataset in one of three formats: \textbf{Simple}, \textbf{Darwin Core Archive}, and \textbf{Species List}. The custom dataset is stored on the GBIF server, is given a citable digital object identifier (DOI), and can be downloaded by anyone who visits the dataset download page \cite{https://doi.org/10.15468/dl.yztrkr} (Fig. \ref{fig:dataset-download}).
@@ -229,7 +231,9 @@ For detailed analysis and construction of custom data products, the Darwin core 
 
 \input{datasets.tex}
 
-\pagebreak
-\section{Concluding Remarks}
+%\pagebreak
+%\section{Concluding Remarks}
+
+
 
 \end{document}

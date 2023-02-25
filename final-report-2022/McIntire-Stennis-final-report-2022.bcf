@@ -2192,6 +2192,9 @@
     <bcf:citekey order="1">moore_mcintire-stennis_2018</bcf:citekey>
     <bcf:citekey order="2">moore_building_2018</bcf:citekey>
     <bcf:citekey order="3">moore_building_2018-1</bcf:citekey>
+    <bcf:citekey order="4">gh-McIntire-Stennis</bcf:citekey>
+    <bcf:citekey order="4">gh-datamining-insect-of-guam</bcf:citekey>
+    <bcf:citekey order="4">gh-guam-insect-list</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">

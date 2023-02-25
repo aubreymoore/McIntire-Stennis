@@ -95,7 +95,7 @@
       \endverb
       \keyw{biodiversity informatics,McIntire-Stennis final report 2019,Moore-presentations-after-2017,presentation2018,rlg}
     \endentry
-    \entry{moore_mcintire-stennis_2018}{misc}{}
+    \entry{gh-datamining-insect-of-guam}{misc}{}
       \name{author}{1}{}{%
         {{hash=01c4ab783bec4fb0e4fd912fc480dc75}{%
            family={Moore},
@@ -110,6 +110,90 @@
       \strng{authornamehash}{01c4ab783bec4fb0e4fd912fc480dc75}
       \strng{authorfullhash}{01c4ab783bec4fb0e4fd912fc480dc75}
       \field{extraname}{3}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{GitHub Repository: Datamining Insects of Guam}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://github.com/aubreymoore/data-mining-insects-of-guam
+      \endverb
+      \verb{url}
+      \verb https://github.com/aubreymoore/data-mining-insects-of-guam
+      \endverb
+    \endentry
+    \entry{gh-guam-insect-list}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=01c4ab783bec4fb0e4fd912fc480dc75}{%
+           family={Moore},
+           familyi={M\bibinitperiod},
+           given={Aubrey},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{01c4ab783bec4fb0e4fd912fc480dc75}
+      \strng{fullhash}{01c4ab783bec4fb0e4fd912fc480dc75}
+      \strng{bibnamehash}{01c4ab783bec4fb0e4fd912fc480dc75}
+      \strng{authorbibnamehash}{01c4ab783bec4fb0e4fd912fc480dc75}
+      \strng{authornamehash}{01c4ab783bec4fb0e4fd912fc480dc75}
+      \strng{authorfullhash}{01c4ab783bec4fb0e4fd912fc480dc75}
+      \field{extraname}{4}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{GitHub Repository: Guam Insect List}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://github.com/aubreymoore/Guam-insect-list
+      \endverb
+      \verb{url}
+      \verb https://github.com/aubreymoore/Guam-insect-list
+      \endverb
+    \endentry
+    \entry{gh-McIntire-Stennis}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=01c4ab783bec4fb0e4fd912fc480dc75}{%
+           family={Moore},
+           familyi={M\bibinitperiod},
+           given={Aubrey},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{01c4ab783bec4fb0e4fd912fc480dc75}
+      \strng{fullhash}{01c4ab783bec4fb0e4fd912fc480dc75}
+      \strng{bibnamehash}{01c4ab783bec4fb0e4fd912fc480dc75}
+      \strng{authorbibnamehash}{01c4ab783bec4fb0e4fd912fc480dc75}
+      \strng{authornamehash}{01c4ab783bec4fb0e4fd912fc480dc75}
+      \strng{authorfullhash}{01c4ab783bec4fb0e4fd912fc480dc75}
+      \field{extraname}{5}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{GitHub Repository: Resources for McIntire-Stennis Project GU0930}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://github.com/aubreymoore/McIntire-Stennis
+      \endverb
+      \verb{url}
+      \verb https://github.com/aubreymoore/McIntire-Stennis
+      \endverb
+    \endentry
+    \entry{moore_mcintire-stennis_2018}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=01c4ab783bec4fb0e4fd912fc480dc75}{%
+           family={Moore},
+           familyi={M\bibinitperiod},
+           given={Aubrey},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{01c4ab783bec4fb0e4fd912fc480dc75}
+      \strng{fullhash}{01c4ab783bec4fb0e4fd912fc480dc75}
+      \strng{bibnamehash}{01c4ab783bec4fb0e4fd912fc480dc75}
+      \strng{authorbibnamehash}{01c4ab783bec4fb0e4fd912fc480dc75}
+      \strng{authornamehash}{01c4ab783bec4fb0e4fd912fc480dc75}
+      \strng{authorfullhash}{01c4ab783bec4fb0e4fd912fc480dc75}
+      \field{extraname}{6}
       \field{sortinit}{M}
       \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
       \field{labelnamesource}{author}
