@@ -1,0 +1,20 @@
+\expandafter\ifx\csname doTocEntry\endcsname\relax \expandafter\endinput\fi
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{1}{x1-1000}{QQ2-1-1}{Contents}}{3}\relax 
+\doTocEntry\tocsection{1}{\csname a:TocLink\endcsname{1}{x1-20001}{QQ2-1-2}{Introduction}}{4}\relax 
+\doTocEntry\toclof{1}{\csname a:TocLink\endcsname{1}{x1-2001r1}{}{\ignorespaces Conceptual design for the Guam Terrestrial Biodiversity Inventory}}{figure}\relax 
+\doTocEntry\tocsubsection{1.1}{\csname a:TocLink\endcsname{1}{x1-30001.1}{QQ2-1-4}{Why Guam Needs a Terrestrial Biodiversity Inventory}}{7}\relax 
+\doTocEntry\tocsubsection{1.2}{\csname a:TocLink\endcsname{1}{x1-40001.2}{QQ2-1-5}{Design Considerations}}{8}\relax 
+\doTocEntry\tocsubsection{1.3}{\csname a:TocLink\endcsname{1}{x1-50001.3}{QQ2-1-6}{References}}{8}\relax 
+\doTocEntry\tocsection{2}{\csname a:TocLink\endcsname{1}{x1-60002}{QQ2-1-7}{Extracting Data from the University of Guam Insect Collection}}{10}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-70002}{QQ2-1-8}{Acknowledgment}}{10}\relax 
+\doTocEntry\tocsection{3}{\csname a:TocLink\endcsname{1}{x1-80003}{QQ2-1-9}{Extracting Data from Insects of Guam Publications}}{11}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-90003}{QQ2-1-10}{Zenodo article}}{11}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-100003}{QQ2-1-11}{GBIF dataset}}{11}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-110003}{QQ2-1-12}{Taxon treatments}}{12}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-120003}{QQ2-1-13}{Acknowledgments}}{12}\relax 
+\doTocEntry\tocsubsection{3.1}{\csname a:TocLink\endcsname{1}{x1-130003.1}{QQ2-1-14}{References}}{12}\relax 
+\doTocEntry\tocsubsection{3.2}{\csname a:TocLink\endcsname{1}{x1-140003.2}{QQ2-1-15}{Annotated Chapters from Insects of Guam I and II}}{12}\relax 
+\doTocEntry\tocsection{4}{\csname a:TocLink\endcsname{1}{x1-150004}{QQ2-1-16}{Extracting Data from iNaturalist}}{18}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-160004}{QQ2-1-17}{Acknowledgments}}{18}\relax 
+\doTocEntry\tocsection{5}{\csname a:TocLink\endcsname{1}{x1-170005}{QQ2-1-18}{Accessing Guam Biodiversity Information Stored in GBIF}}{19}\relax 
+\doTocEntry\tocsubsection{5.1}{\csname a:TocLink\endcsname{1}{x1-180005.1}{QQ2-1-19}{References}}{19}\relax 
